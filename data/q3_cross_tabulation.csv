@@ -1,0 +1,31 @@
+checkin_class,category,n_businesses,mean_stars,mean_review_count,mean_tip_ratio
+Low,American (New),126,3.635,13.1,0.1224
+Medium,American (New),910,3.553,33.6,0.167
+High,American (New),1478,3.628,235.5,0.1635
+Low,American (Traditional),219,3.498,11.2,0.126
+Medium,American (Traditional),1234,3.396,30.6,0.1721
+High,American (Traditional),1796,3.443,190.6,0.1699
+Low,Bars,253,3.577,10.1,0.1278
+Medium,Bars,1642,3.627,27.5,0.1754
+High,Bars,2432,3.595,205.3,0.17
+Low,Breakfast & Brunch,176,3.75,11.9,0.1094
+Medium,Breakfast & Brunch,1008,3.652,31.7,0.1605
+High,Breakfast & Brunch,1312,3.709,214.5,0.1582
+Low,Food,1285,3.748,10.0,0.1056
+Medium,Food,5559,3.634,22.4,0.1718
+High,Food,4350,3.657,126.8,0.2063
+Low,Italian,264,3.309,13.9,0.1067
+Medium,Italian,1090,3.473,38.8,0.1524
+High,Italian,783,3.733,201.2,0.1386
+Low,Nightlife,311,3.542,10.1,0.1216
+Medium,Nightlife,1844,3.635,26.6,0.1792
+High,Nightlife,2572,3.599,202.0,0.1725
+Low,Restaurants,2432,3.471,11.7,0.1187
+Medium,Restaurants,10077,3.473,29.6,0.1694
+High,Restaurants,8424,3.657,177.2,0.1734
+Low,Sandwiches,381,3.472,11.8,0.1163
+Medium,Sandwiches,1736,3.558,28.1,0.1669
+High,Sandwiches,1436,3.692,152.9,0.1921
+Low,Seafood,168,3.53,13.1,0.1052
+Medium,Seafood,649,3.672,36.5,0.1565
+High,Seafood,767,3.677,269.6,0.1387

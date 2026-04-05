@@ -1,0 +1,102 @@
+// ============================================================================
+// CS-3510 Assignment 2 Part 2 — MongoDB Queries
+// Aamer Jalan, Ashoka University
+// ============================================================================
+
+// ── Q1: Cohort Analysis of User Reviewing Behaviour ──────────────────────────
+// Strategy: Python-side join for performance (avoids $lookup on 2.76M reviews)
+// Step 1: Build user_id → cohort year map from users collection
+// Step 2: Stream reviews, accumulate per-cohort statistics
+
+// Equivalent aggregation pipeline (slow but pure MongoDB):
+db.reviews.aggregate([
+  { $lookup: {
+      from: "users", localField: "user_id", foreignField: "user_id",
+      pipeline: [{ $project: { yelping_since: 1, _id: 0 } }],
+      as: "usr"
+  }},
+  { $unwind: "$usr" },
+  { $addFields: {
+      cohortYear: { $toInt: { $substr: ["$usr.yelping_since", 0, 4] } },
+      textLen: { $strLenCP: "$text" }
+  }},
+  { $group: {
+      _id: "$cohortYear",
+      meanStars: { $avg: "$stars" },
+      stdStars: { $stdDevPop: "$stars" },
+      meanTextLen: { $avg: "$textLen" },
+      meanUseful: { $avg: "$useful" },
+      totalReviews: { $sum: 1 },
+      star1: { $sum: { $cond: [{ $eq: ["$stars", 1] }, 1, 0] } },
+      star2: { $sum: { $cond: [{ $eq: ["$stars", 2] }, 1, 0] } },
+      star3: { $sum: { $cond: [{ $eq: ["$stars", 3] }, 1, 0] } },
+      star4: { $sum: { $cond: [{ $eq: ["$stars", 4] }, 1, 0] } },
+      star5: { $sum: { $cond: [{ $eq: ["$stars", 5] }, 1, 0] } }
+  }},
+  { $addFields: {
+      propStar1: { $divide: ["$star1", "$totalReviews"] },
+      propStar2: { $divide: ["$star2", "$totalReviews"] },
+      propStar3: { $divide: ["$star3", "$totalReviews"] },
+      propStar4: { $divide: ["$star4", "$totalReviews"] },
+      propStar5: { $divide: ["$star5", "$totalReviews"] }
+  }},
+  { $sort: { _id: 1 } }
+], { allowDiskUse: true });
+
+
+// ── Q2: Month-over-Month Category Rating Trends ─────────────────────────────
+db.reviews.aggregate([
+  { $addFields: { yearMonth: { $substr: ["$date", 0, 7] } } },
+  { $lookup: {
+      from: "businesses", localField: "business_id", foreignField: "business_id",
+      pipeline: [{ $project: { categories: 1, _id: 0 } }],
+      as: "biz"
+  }},
+  { $unwind: "$biz" },
+  { $unwind: "$biz.categories" },
+  { $group: {
+      _id: { cat: "$biz.categories", ym: "$yearMonth" },
+      avgStars: { $avg: "$stars" },
+      count: { $sum: 1 }
+  }},
+  { $group: {
+      _id: "$_id.cat",
+      totalReviews: { $sum: "$count" },
+      monthly: { $push: { ym: "$_id.ym", avg: "$avgStars", count: "$count" } }
+  }},
+  { $match: { totalReviews: { $gte: 500 } } },
+  { $addFields: {
+      monthly: { $sortArray: { input: "$monthly", sortBy: { ym: 1 } } }
+  }}
+], { allowDiskUse: true });
+// Post-processing: compute MoM changes and trend consistency in Python
+
+
+// ── Q3: Check-in Frequency × Category Cross-Tabulation ──────────────────────
+
+// Step 1: Get check-in counts per business
+db.checkins.aggregate([
+  { $addFields: { checkinCount: { $size: "$date" } } },
+  { $sort: { checkinCount: 1 } }
+]);
+// Compute Q1, Q3 quartile boundaries in Python
+// Classify: Low (≤Q1=5), Medium (Q1..Q3=65), High (>Q3=65)
+
+// Step 2: Top 10 categories by total review count
+db.businesses.aggregate([
+  { $unwind: "$categories" },
+  { $group: { _id: "$categories", totalReviews: { $sum: "$review_count" } } },
+  { $sort: { totalReviews: -1 } },
+  { $limit: 10 }
+]);
+
+// Step 3: Tip counts per business
+db.tips.aggregate([
+  { $group: { _id: "$business_id", tipCount: { $sum: 1 } } }
+]);
+
+// Step 4: Cross-tabulation built in Python by iterating businesses with check-ins,
+// filtering to top 10 categories, computing per-cell metrics:
+// - Mean star rating (businesses.stars)
+// - Mean review count (businesses.review_count)
+// - Tip-to-review ratio (tips / review_count per business)

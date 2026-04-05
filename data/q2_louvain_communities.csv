@@ -1,0 +1,41 @@
+community_id,size,total_reviews,top3_states,top3_categories,geo_concentration,most_common_state
+756285,27431,464416,PA (457025); FL (7391),Restaurants (340329); Food (135845); Nightlife (111147),0.9841,PA
+337664,69750,252575,FL (244989); PA (7586),Restaurants (171363); Food (64823); Nightlife (55584),0.97,FL
+387253,73607,284845,PA (273383); FL (11462),Restaurants (190657); Food (68536); Nightlife (60376),0.9598,PA
+631271,29187,342688,FL (328334); PA (14354),Restaurants (244180); Food (105798); Nightlife (81408),0.9581,FL
+380301,16185,75600,PA (72320); FL (3280),Restaurants (57555); Food (23740); Nightlife (14394),0.9566,PA
+624493,833,3592,FL (3329); PA (263),Restaurants (2277); Food (952); Nightlife (540),0.9268,FL
+265060,9392,30345,PA (27632); FL (2713),Restaurants (20659); Food (6932); Nightlife (5799),0.9106,PA
+698634,983,3142,PA (2843); FL (299),Restaurants (2250); Food (821); Nightlife (661),0.9048,PA
+710789,82,246,FL (218); PA (28),Restaurants (164); Food (84); Nightlife (40),0.8862,FL
+23692,109,299,PA (251); FL (48),Restaurants (212); Food (69); Nightlife (63),0.8395,PA
+707161,167,396,FL (330); PA (66),Restaurants (256); Food (106); Nightlife (100),0.8333,FL
+166157,79,218,PA (163); FL (55),Restaurants (162); Food (55); Nightlife (42),0.7477,PA
+160654,80,240,FL (169); PA (71),Restaurants (167); Nightlife (71); Food (67),0.7042,FL
+681247,14260,45691,PA (32085); FL (13606),Restaurants (33302); Food (12842); Nightlife (10499),0.7022,PA
+762254,610,1613,PA (1131); FL (482),Restaurants (1129); Food (410); Nightlife (397),0.7012,PA
+349549,283,639,FL (444); PA (195),Restaurants (464); Nightlife (161); Bars (159),0.6948,FL
+702541,1673,4967,FL (3401); PA (1566),Restaurants (3658); Nightlife (1299); Bars (1260),0.6847,FL
+133696,52,115,PA (78); FL (37),Restaurants (68); Food (29); Bars (16),0.6783,PA
+16604,91,287,FL (194); PA (93),Restaurants (188); Food (54); Bars (46),0.676,FL
+734182,51259,185829,PA (123944); FL (61885),Restaurants (133836); Food (51625); Nightlife (44142),0.667,PA
+693547,121,317,FL (209); PA (108),Restaurants (226); Food (85); American (New) (63),0.6593,FL
+301506,81,191,PA (125); FL (66),Restaurants (138); Food (47); Nightlife (44),0.6545,PA
+58514,73,181,PA (118); FL (63),Restaurants (139); Food (56); Nightlife (55),0.6519,PA
+352902,61,209,FL (135); PA (74),Restaurants (159); Food (69); Nightlife (64),0.6459,FL
+7061,106,319,PA (201); FL (118),Restaurants (218); Nightlife (83); Bars (82),0.6301,PA
+759117,275,657,PA (411); FL (246),Restaurants (449); Food (163); Nightlife (159),0.6256,PA
+506598,110,230,PA (142); FL (88),Restaurants (146); Food (53); Nightlife (46),0.6174,PA
+7636,101,174,PA (105); FL (69),Restaurants (123); American (New) (42); Food (39),0.6034,PA
+579073,58,118,PA (70); FL (48),Restaurants (89); Nightlife (34); Bars (33),0.5932,PA
+134291,55,76,FL (45); PA (31),Restaurants (47); Food (18); Bars (17),0.5921,FL
+174329,76,201,PA (119); FL (82),Restaurants (153); Nightlife (63); Bars (58),0.592,PA
+173647,59,167,FL (97); PA (70),Restaurants (114); Food (38); Seafood (30),0.5808,FL
+618610,53,120,FL (69); PA (51),Restaurants (79); Nightlife (39); Bars (38),0.575,FL
+381299,191,437,FL (248); PA (189),Restaurants (297); Nightlife (108); Bars (104),0.5675,FL
+508482,266,994,FL (562); PA (432),Restaurants (724); Food (302); Nightlife (182),0.5654,FL
+368252,530,1194,PA (671); FL (523),Restaurants (857); Food (287); Nightlife (254),0.562,PA
+197345,300,1067,FL (597); PA (470),Restaurants (774); Food (312); Nightlife (237),0.5595,FL
+79507,63,91,FL (50); PA (41),Restaurants (50); Nightlife (24); Bars (22),0.5495,FL
+149146,92,171,PA (89); FL (82),Restaurants (115); Food (57); Nightlife (28),0.5205,PA
+273247,440,1050,PA (541); FL (509),Restaurants (741); Food (248); Nightlife (246),0.5152,PA

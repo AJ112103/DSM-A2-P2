@@ -1,0 +1,11 @@
+city,category,mean_jaccard,mean_stars,std_stars,mean_review_count,type
+Aston,Automotive,0.227,3.458,0.94,9.9,Saturated
+Doylestown,Gift Shops,0.1883,4.056,0.808,8.1,Saturated
+Aston,Shopping,0.1877,3.267,1.163,9.9,Saturated
+Oldsmar,Discount Store,0.186,3.3,0.671,22.8,Saturated
+Media,Convenience Stores,0.1844,3.5,0.866,9.9,Saturated
+New Hope,Hotels,0.0168,3.824,0.809,36.2,Fragmented
+Wesley Chapel,Car Dealers,0.0166,3.031,0.846,77.6,Fragmented
+St. Petersburg,Massage,0.0164,4.091,0.87,36.0,Fragmented
+Clearwater Beach,Resorts,0.016,3.389,0.546,163.9,Fragmented
+Philadelphia,Hotels,0.0157,3.215,0.908,108.6,Fragmented

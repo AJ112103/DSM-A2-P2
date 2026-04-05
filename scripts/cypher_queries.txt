@@ -1,0 +1,186 @@
+// ============================================================================
+// CS-3510 Assignment 2 Part 2 — Cypher / GDS Queries
+// Aamer Jalan, Ashoka University
+// ============================================================================
+
+// ── Q1: PageRank on User→Business Review Graph ──────────────────────────────
+
+// Step 1: Project graph via Cypher projection (through Review nodes)
+CALL gds.graph.project.cypher(
+    'user-biz-pr',
+    'MATCH (n) WHERE n:User OR n:Business RETURN id(n) AS id, labels(n) AS labels',
+    'MATCH (u:User)-[:WROTE]->(r:Review)-[:REVIEWS]->(b:Business)
+     RETURN id(u) AS source, id(b) AS target, r.stars AS weight',
+    {readConcurrency: 4}
+) YIELD graphName, nodeCount, relationshipCount
+RETURN graphName, nodeCount, relationshipCount;
+
+// Step 2: Run PageRank (20 iterations, weighted)
+CALL gds.pageRank.stream('user-biz-pr', {
+    maxIterations: 20,
+    relationshipWeightProperty: 'weight'
+})
+YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS node, score
+WHERE 'Business' IN labels(node)
+RETURN node.business_id AS business_id,
+       node.name AS name,
+       node.review_count AS review_count,
+       node.stars AS avg_stars,
+       score AS pageRank
+ORDER BY score DESC
+LIMIT 15;
+
+// Step 3: Export user PageRank scores (for predictive model)
+CALL gds.pageRank.stream('user-biz-pr', {
+    maxIterations: 20,
+    relationshipWeightProperty: 'weight'
+})
+YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS node, score
+WHERE 'User' IN labels(node) AND score > 0.15
+RETURN node.user_id AS user_id, score AS pagerank
+ORDER BY score DESC;
+
+CALL gds.graph.drop('user-biz-pr');
+
+
+// ── Q2: Louvain Community Detection on FRIENDS_WITH ─────────────────────────
+
+// Step 1: Project undirected FRIENDS_WITH graph
+CALL gds.graph.project(
+    'friends-graph', 'User',
+    {FRIENDS_WITH: {orientation: 'UNDIRECTED'}}
+) YIELD graphName, nodeCount, relationshipCount
+RETURN graphName, nodeCount, relationshipCount;
+
+// Step 2: Run Louvain and write community IDs back to nodes
+CALL gds.louvain.write('friends-graph', {
+    writeProperty: 'communityId'
+})
+YIELD communityCount, modularity
+RETURN communityCount, modularity;
+
+// Step 3: Get communities with ≥25 members
+MATCH (u:User)
+WHERE u.communityId IS NOT NULL
+WITH u.communityId AS cid, count(u) AS size
+WHERE size >= 25
+RETURN cid, size
+ORDER BY size DESC;
+
+// Step 4: For each community, get top 3 states and geographic concentration
+// (parameterized query, run per community)
+MATCH (u:User {communityId: $cid})-[:WROTE]->(r:Review)-[:REVIEWS]->(b:Business)
+WITH b.state AS state, count(r) AS reviewCount
+RETURN state, reviewCount
+ORDER BY reviewCount DESC;
+
+// Step 5: Top 3 categories per community
+MATCH (u:User {communityId: $cid})-[:WROTE]->(:Review)-[:REVIEWS]->(b:Business)
+      -[:IN_CATEGORY]->(c:Category)
+WITH c.name AS category, count(*) AS reviewCount
+RETURN category, reviewCount
+ORDER BY reviewCount DESC
+LIMIT 3;
+
+
+// ── Q3: Node Similarity (Jaccard) for Market Saturation ─────────────────────
+
+// Step 1: Cypher projection Business→User (through Review nodes)
+CALL gds.graph.project.cypher(
+    'biz-reviewer',
+    'MATCH (n) WHERE n:Business OR n:User RETURN id(n) AS id, labels(n) AS labels',
+    'MATCH (b:Business)<-[:REVIEWS]-(r:Review)<-[:WROTE]-(u:User)
+     RETURN id(b) AS source, id(u) AS target',
+    {readConcurrency: 4}
+) YIELD graphName, nodeCount, relationshipCount
+RETURN graphName, nodeCount, relationshipCount;
+
+// Step 2: Run Node Similarity
+CALL gds.nodeSimilarity.stream('biz-reviewer', {
+    degreeCutoff: 5,
+    topK: 10,
+    similarityCutoff: 0.01,
+    concurrency: 4
+})
+YIELD node1, node2, similarity
+WITH gds.util.asNode(node1) AS b1, gds.util.asNode(node2) AS b2, similarity
+WHERE 'Business' IN labels(b1) AND 'Business' IN labels(b2)
+RETURN b1.business_id AS biz1, b1.city AS city1,
+       b2.business_id AS biz2, b2.city AS city2,
+       similarity;
+
+// Step 3: Get business categories for filtering
+MATCH (b:Business)-[:IN_CATEGORY]->(c:Category)
+RETURN b.business_id AS bid, collect(c.name) AS categories;
+
+// Step 4: Get star stats for city-category combos
+MATCH (b:Business {city: $city})-[:IN_CATEGORY]->(c:Category {name: $cat})
+RETURN avg(b.stars) AS mean_stars,
+       stDev(b.stars) AS std_stars,
+       avg(b.review_count) AS mean_review_count,
+       count(b) AS n;
+
+CALL gds.graph.drop('biz-reviewer');
+
+
+// ── Q4: Betweenness Centrality vs Degree Centrality ─────────────────────────
+
+// (Reuses friends-graph from Q2, or re-project if dropped)
+
+// Step 1: Betweenness Centrality (sampled for performance)
+CALL gds.betweenness.stream('friends-graph', {
+    samplingSize: 500,
+    concurrency: 4
+})
+YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS user, score
+RETURN user.user_id AS user_id, user.name AS name,
+       user.review_count AS review_count, score AS betweenness
+ORDER BY score DESC
+LIMIT 20;
+
+// Step 2: Degree Centrality
+CALL gds.degree.stream('friends-graph')
+YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS user, score
+RETURN user.user_id AS user_id, user.name AS name,
+       user.review_count AS review_count, score AS degree
+ORDER BY score DESC
+LIMIT 20;
+
+// Step 3: Compare groups — high-betweenness/low-degree users
+UNWIND $uids AS uid
+MATCH (u:User {user_id: uid})-[:WROTE]->(r:Review)-[:REVIEWS]->(b:Business)
+WITH u, count(DISTINCT b.city) AS cities, count(r) AS reviews
+OPTIONAL MATCH (u)-[:WROTE]->(:Review)-[:REVIEWS]->(:Business)-[:IN_CATEGORY]->(c:Category)
+WITH u, cities, reviews, count(DISTINCT c.name) AS cats
+RETURN avg(reviews) AS mean_reviews,
+       avg(cities) AS mean_cities,
+       avg(cats) AS mean_categories,
+       count(u) AS n;
+
+CALL gds.graph.drop('friends-graph');
+
+
+// ── Q5: Link Prediction for Restaurant Recommendation ───────────────────────
+
+// Step 1: Get all user-restaurant review edges with dates
+MATCH (u:User)-[:WROTE]->(r:Review)-[:REVIEWS]->(b:Business)
+      -[:IN_CATEGORY]->(c:Category {name: 'Restaurants'})
+WITH u, b, r
+RETURN u.user_id AS uid, b.business_id AS bid,
+       r.stars AS stars, r.date AS date,
+       u.review_count AS u_rc, u.average_stars AS u_avg, u.fans AS u_fans,
+       b.stars AS b_stars, b.review_count AS b_rc
+ORDER BY r.date;
+
+// Step 2: Get community assignments
+MATCH (u:User)
+WHERE u.communityId IS NOT NULL
+RETURN u.user_id AS user_id, u.communityId AS communityId;
+
+// Feature engineering, train/test split, and model training done in Python
+// using GradientBoostingClassifier with features from Neo4j and MongoDB.
+// See notebooks/neo4j_queries.py for the full implementation.

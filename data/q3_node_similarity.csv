@@ -1,0 +1,2614 @@
+city,category,n_businesses,mean_jaccard,n_pairs
+Aston,Automotive,5,0.227,7
+Doylestown,Gift Shops,5,0.1883,9
+Aston,Shopping,5,0.1877,6
+Oldsmar,Discount Store,5,0.186,5
+Media,Convenience Stores,8,0.1844,13
+Broomall,Convenience Stores,5,0.1833,8
+Tampa,Amusement Parks,17,0.1802,65
+Port Richey,Home & Garden,9,0.1794,14
+Doylestown,Flowers & Gifts,8,0.1728,18
+Clearwater,Discount Store,5,0.1687,6
+Willow Grove,Home & Garden,5,0.1641,8
+Broomall,Health & Medical,5,0.1634,5
+Holiday,Automotive,9,0.159,8
+New Port Richey,Convenience Stores,9,0.1587,12
+Folsom,Food,9,0.158,12
+Newtown,Farmers Market,7,0.1567,17
+Langhorne,Fashion,9,0.1499,8
+Lahaska,Home & Garden,7,0.1432,16
+Aston,Delis,6,0.1431,6
+Spring Hill,Grocery,12,0.1431,24
+Aston,Food,20,0.1426,38
+Port Richey,Shopping,34,0.1423,88
+Lahaska,Shopping,12,0.1414,29
+Tampa,Festivals,33,0.138,123
+Plant City,Grocery,7,0.1362,20
+Safety Harbor,Active Life,5,0.1356,6
+Morrisville,Burgers,5,0.1327,12
+Riverview,Gas Stations,7,0.1316,9
+New Port Richey,Drugstores,8,0.1307,7
+Bala Cynwyd,Mass Media,5,0.1305,8
+Bala Cynwyd,Radio Stations,5,0.1305,8
+Fairless Hills,Food,10,0.1301,20
+Tampa,Pharmacy,6,0.1301,4
+Willow Grove,Automotive,5,0.1298,4
+Bensalem,Coffee & Tea,7,0.1296,11
+Tampa,Discount Store,30,0.1279,46
+Clearwater,Women's Clothing,10,0.1276,10
+Tampa,Educational Services,5,0.1269,8
+Riverview,Convenience Stores,11,0.1259,12
+Clearwater,Men's Clothing,7,0.1258,6
+Souderton,Shopping,5,0.1247,4
+Philadelphia,Mass Media,10,0.1247,17
+Feasterville Trevose,Food,7,0.1242,10
+Tampa,Libraries,8,0.1233,12
+Broomall,Coffee & Tea,6,0.122,5
+New Port Richey,Fashion,6,0.1219,6
+Morrisville,Fast Food,5,0.1213,8
+Collegeville,Shopping,17,0.1212,25
+Exton,Fashion,9,0.1196,8
+Media,Shopping,31,0.1195,41
+Ruskin,Shopping,10,0.1195,18
+Broomall,Shopping,6,0.1189,6
+Media,Home & Garden,5,0.1185,4
+Tampa,Fruits & Veggies,7,0.1183,5
+New Port Richey,Shopping,43,0.1183,61
+Souderton,Sandwiches,6,0.1174,6
+Newtown,Shopping,26,0.1172,42
+Pottstown,Fashion,11,0.1164,10
+Newtown,Local Services,13,0.116,16
+Willow Grove,Electronics,5,0.1159,4
+Philadelphia,Festivals,27,0.1159,59
+Lansdowne,Shopping,8,0.1152,11
+Willow Grove,Mobile Phones,5,0.1146,4
+New Port Richey,Local Services,9,0.1146,11
+Havertown,Shopping,33,0.1139,52
+Palm Harbor,Grocery,9,0.1136,8
+Spring Hill,Coffee & Tea,7,0.1135,11
+Tampa,Home Decor,36,0.1133,37
+Valrico,Shopping,17,0.1132,21
+Springfield,Grocery,5,0.1125,5
+Oldsmar,Shopping,23,0.1125,22
+Dunedin,Fashion,6,0.1118,10
+Willow Grove,Local Services,6,0.1117,5
+Doylestown,Fashion,8,0.1115,8
+Springfield,Food,34,0.1114,56
+Morrisville,Food,10,0.1114,14
+Palm Harbor,Shopping,50,0.1112,93
+Spring Hill,Local Services,6,0.1109,7
+Valrico,Coffee & Tea,8,0.1104,6
+Clearwater,Parks,5,0.1103,4
+Phoenixville,Drugstores,5,0.1101,5
+Glen Mills,Automotive,6,0.1092,4
+Ruskin,Automotive,10,0.1091,18
+Brookhaven,Food,18,0.1089,34
+Doylestown,Grocery,5,0.1088,9
+Gulfport,Shopping,6,0.1087,5
+Springfield,Department Stores,7,0.1081,10
+Pinellas Park,Grocery,12,0.108,12
+Brandon,Cannabis Clinics,5,0.1077,7
+North Wales,Department Stores,7,0.1071,8
+St. Petersburg,Women's Clothing,9,0.107,16
+Philadelphia,Art Galleries,51,0.1069,66
+Media,Delis,6,0.1069,7
+Port Richey,Burgers,6,0.1069,8
+Bensalem,Local Services,9,0.1067,8
+Media,Home Services,6,0.1066,6
+Folsom,Shopping,8,0.1065,7
+Springfield,Coffee & Tea,5,0.1064,3
+Clearwater,Department Stores,20,0.1062,28
+Clearwater,Fashion,39,0.1062,59
+Tampa,Public Services & Government,31,0.1057,37
+Eddystone,Restaurants,5,0.1052,7
+Tampa,Department Stores,61,0.1051,125
+Spring Hill,Fashion,7,0.1051,11
+New Port Richey,Fast Food,26,0.1051,43
+Philadelphia,Discount Store,15,0.105,15
+Tampa,Convenience Stores,49,0.1048,55
+Glenside,Local Services,5,0.1048,10
+Saint Petersburg,Discount Store,6,0.1038,7
+Langhorne,Local Services,7,0.1036,7
+Clearwater,Convenience Stores,11,0.1035,11
+Feasterville Trevose,Shopping,11,0.1034,12
+Wesley Chapel,Fashion,14,0.1034,16
+Holiday,Shopping,7,0.1033,6
+New Port Richey,Grocery,9,0.1033,9
+Feasterville,Shopping,6,0.1031,4
+Largo,Drugstores,7,0.103,10
+Aston,Beauty & Spas,6,0.1029,3
+Palm Harbor,Drugstores,5,0.1029,4
+Fairless Hills,Fast Food,6,0.1026,6
+Tarpon Springs,Cosmetics & Beauty Supply,5,0.1024,5
+Plant City,Automotive,6,0.1024,6
+Plant City,Health & Medical,6,0.1024,9
+Philadelphia,Train Stations,7,0.1023,11
+Aston,American (Traditional),6,0.102,6
+Valrico,Grocery,5,0.102,8
+Holiday,Food,17,0.1017,31
+Port Richey,Food,29,0.1017,45
+Philadelphia,Public Transportation,9,0.1016,11
+Hudson,Grocery,7,0.1015,6
+Doylestown,Event Planning & Services,10,0.1013,11
+Dunedin,Home & Garden,6,0.1008,4
+Newtown,Coffee & Tea,12,0.1008,14
+Levittown,Automotive,10,0.1005,11
+Bensalem,Fashion,5,0.1003,5
+Bensalem,Shopping,27,0.1003,32
+Doylestown,Home & Garden,14,0.1001,19
+Lutz,Fashion,7,0.1001,6
+Doylestown,Shopping,80,0.0997,197
+Tampa,Hospitals,7,0.0995,7
+Chadds Ford,Shopping,5,0.0995,5
+St. Petersburg,Breweries,5,0.0993,6
+Bensalem,Home & Garden,6,0.0993,4
+Drexel Hill,Food,21,0.0992,29
+Spring Hill,Shopping,36,0.0991,74
+Ruskin,Mexican,7,0.0988,9
+Springfield,Home & Garden,10,0.0986,12
+Lutz,Home & Garden,10,0.0984,8
+Royersford,Shopping,15,0.0983,16
+Philadelphia,Churches,8,0.0983,10
+Brandon,Women's Clothing,9,0.0983,7
+Springfield,Health & Medical,9,0.0982,7
+Tampa,Watches,5,0.0981,7
+Plant City,Shopping,21,0.0979,45
+Broomall,Food,34,0.0974,69
+Horsham,Home Services,6,0.0974,6
+Hatboro,Shopping,11,0.0973,10
+Philadelphia,Videos & Video Game Rental,10,0.0973,9
+Wyncote,Shopping,8,0.0971,13
+Tarpon Springs,Shopping,50,0.0971,62
+Tampa,Gas Stations,28,0.0971,32
+Media,Fast Food,6,0.0968,4
+St. Petersburg,Fashion,17,0.0967,26
+North Wales,Shopping,35,0.0967,52
+Glen Mills,Shopping,19,0.0967,25
+Riverview,Grocery,12,0.0966,15
+Hudson,Shopping,7,0.0964,6
+Lansdowne,Food,14,0.0961,31
+Tampa,Shipping Centers,8,0.096,7
+Hudson,Burgers,5,0.0958,9
+Tampa,Diagnostic Services,6,0.0957,5
+Pottstown,Shopping,36,0.0957,72
+Tampa,Drugstores,37,0.0956,44
+Harleysville,Shopping,5,0.0956,4
+Valrico,Health & Medical,8,0.0956,6
+Souderton,Food,20,0.0955,37
+New Port Richey,Home & Garden,6,0.0954,3
+Saint Petersburg,Convenience Stores,11,0.0952,11
+New Port Richey,Burgers,12,0.0951,10
+Levittown,Fast Food,5,0.095,5
+Norristown,Chinese,6,0.0949,5
+Perkasie,Food,13,0.0949,28
+Newtown,Food,66,0.0948,218
+Brandon,Shoe Stores,6,0.0948,4
+Boothwyn,Food,7,0.0948,8
+Odessa,Food,14,0.0946,13
+Bristol,Coffee & Tea,6,0.0944,4
+Brandon,Men's Clothing,8,0.0943,7
+Tampa,Men's Clothing,38,0.0942,49
+Pottstown,Fast Food,10,0.0941,16
+Spring Hill,Fast Food,22,0.094,53
+Port Richey,Fast Food,12,0.0939,20
+Saint Petersburg,Department Stores,6,0.0938,6
+Media,Food,67,0.0936,160
+Bensalem,Grocery,6,0.0936,5
+Tampa,Florists,7,0.0936,5
+South Pasadena,Shopping,6,0.0936,6
+Philadelphia,Religious Organizations,12,0.0934,13
+Spring Hill,Sandwiches,8,0.0934,7
+Wesley Chapel,Doctors,15,0.0932,13
+St. Petersburg,Thrift Stores,9,0.0931,12
+Philadelphia,Boxing,5,0.093,5
+Levittown,Chinese,9,0.093,15
+Langhorne,Shopping,35,0.0929,35
+Media,Health & Medical,16,0.0928,15
+Largo,Convenience Stores,7,0.0928,7
+Philadelphia,Pop-Up Restaurants,5,0.0928,7
+Eddystone,Food,5,0.0927,7
+Tampa,Food Stands,10,0.0925,9
+Tampa,Education,19,0.0924,20
+Tampa,Arts & Crafts,19,0.0923,16
+West Chester,Breweries,6,0.0922,5
+Norristown,Mexican,21,0.0922,95
+Norristown,Coffee & Tea,5,0.0921,5
+Media,Coffee & Tea,17,0.0921,24
+Riverview,Home & Garden,5,0.0921,6
+Philadelphia,Art Classes,5,0.092,5
+King of Prussia,Cosmetics & Beauty Supply,6,0.0918,4
+Upper Darby,Nightlife,8,0.0918,7
+Springfield,Shopping,45,0.0917,75
+Spring Hill,Arts & Entertainment,7,0.0917,5
+Folsom,Pizza,11,0.0916,16
+Havertown,Sandwiches,11,0.0914,9
+Swarthmore,Shopping,5,0.0913,4
+Philadelphia,Gas Stations,5,0.0913,7
+Philadelphia,Dog Parks,9,0.0912,11
+Brandon,Fashion,39,0.0911,53
+Newtown,Home Services,9,0.0909,8
+Tampa,Children's Clothing,12,0.0908,11
+Clearwater,Books,5,0.0907,4
+Clearwater,Music & Video,5,0.0907,4
+Tampa,Fashion,220,0.0907,421
+Clearwater,Mags,5,0.0907,4
+Newtown,Specialty Food,12,0.0906,22
+Pinellas Park,Health & Medical,12,0.0905,9
+Wayne,Shopping,19,0.0905,17
+Philadelphia,Notaries,5,0.0904,4
+Dunedin,Shopping,42,0.0903,54
+Lutz,Fast Food,12,0.0902,22
+Tampa,Grocery,116,0.0902,229
+Seminole,Shopping,18,0.09,20
+Tampa,Notaries,6,0.09,5
+Tampa,Printing Services,14,0.0898,14
+Tampa,Sporting Goods,35,0.0897,43
+Gibsonton,Food,5,0.0897,4
+Exton,Home Services,5,0.0895,4
+Clifton Heights,Food,13,0.0895,13
+Pinellas Park,Active Life,8,0.0894,5
+Philadelphia,International Grocery,8,0.0893,9
+Tampa,Sports Wear,9,0.0891,10
+Tampa,Women's Clothing,64,0.0891,88
+Wesley Chapel,Department Stores,10,0.0889,11
+Newtown Square,Shopping,11,0.0889,11
+Royersford,Convenience Stores,5,0.0889,3
+Tampa,Meat Shops,11,0.0889,9
+Tarpon Springs,Breweries,6,0.0888,16
+Saint Petersburg,Drugstores,6,0.0885,5
+Dunedin,Breweries,10,0.0885,33
+Tampa,Pediatric Dentists,6,0.0882,5
+Tampa,Shopping Centers,8,0.0882,17
+Largo,Grocery,18,0.0881,32
+Brandon,Department Stores,19,0.0881,18
+Pottstown,Coffee & Tea,11,0.088,11
+New Port Richey,Active Life,12,0.088,11
+Glen Mills,Food,21,0.0879,32
+Riverview,Home Services,15,0.0879,11
+Springfield,Fashion,12,0.0878,16
+Spring Hill,Burgers,15,0.0877,25
+Saint Petersburg,Real Estate,9,0.0877,7
+Valrico,Food,36,0.0877,94
+Bensalem,Food,56,0.0875,98
+Saint Petersburg,Breweries,9,0.0875,36
+Tampa,Mobile Phone Accessories,5,0.0873,4
+North Wales,Fashion,13,0.0871,16
+Philadelphia,Fabric Stores,10,0.0871,14
+Riverview,Shopping,37,0.0871,39
+Hudson,Fast Food,8,0.0871,11
+Boothwyn,Restaurants,17,0.0871,34
+Valrico,Fast Food,10,0.087,15
+King of Prussia,Kitchen & Bath,6,0.087,5
+Spring House,Shopping,5,0.0867,6
+Prospect Park,Sandwiches,6,0.0866,5
+Tampa,International Grocery,11,0.0865,17
+Apollo Beach,American (New),7,0.0865,12
+Spring Hill,Bars,14,0.0864,25
+Tampa,Shoe Stores,14,0.0864,11
+Doylestown,Specialty Food,11,0.0863,15
+Philadelphia,Furniture Stores,36,0.0862,34
+Lutz,Shopping,50,0.0862,60
+Spring Hill,Nightlife,15,0.0861,26
+Havertown,Food,43,0.0861,104
+Tampa,Arts & Entertainment,177,0.0857,368
+Apollo Beach,Food,17,0.0856,29
+Spring Hill,Home & Garden,8,0.0856,10
+Glen Mills,Grocery,6,0.0855,7
+Wesley Chapel,Shopping,78,0.0855,158
+Horsham,Food,10,0.0855,11
+Levittown,Bars,10,0.0855,12
+Prospect Park,Food,7,0.0853,9
+Philadelphia,Insurance,5,0.0852,7
+Dunedin,Automotive,10,0.0851,8
+Hatboro,Sandwiches,6,0.085,5
+Oldsmar,Fashion,6,0.085,3
+Willow Grove,Shopping,49,0.0849,65
+Philadelphia,Sports Wear,12,0.0847,13
+Palm Harbor,Burgers,7,0.0847,7
+New Port Richey,Food,92,0.0847,141
+Wesley Chapel,Home & Garden,11,0.0846,8
+Tampa,Orthodontists,10,0.0846,10
+Warminster,Coffee & Tea,6,0.0845,10
+Wayne,Pets,5,0.0843,5
+Largo,Public Services & Government,7,0.0843,5
+Tampa,Golf,21,0.0843,40
+Yardley,Local Services,5,0.0842,5
+Levittown,Burgers,6,0.0842,5
+Upper Darby,Bars,7,0.0841,5
+Hudson,Food,22,0.084,31
+Media,Automotive,8,0.084,11
+Richboro,Food,15,0.084,29
+Tampa,Parks,40,0.084,86
+Palm Harbor,Auto Repair,6,0.0838,5
+Media,Sandwiches,26,0.0838,39
+Ardmore,Fashion,9,0.0838,8
+Hatfield,Food,11,0.0836,15
+Doylestown,Active Life,9,0.0836,7
+Newtown,Caterers,6,0.0835,6
+Doylestown,Real Estate,6,0.0835,6
+Upper Darby,Shopping,6,0.0834,6
+Tampa,Boot Camps,8,0.0832,8
+Port Richey,Italian,7,0.083,11
+Feasterville,Food,8,0.0828,12
+Saint Petersburg,Fashion,16,0.0828,13
+St. Petersburg,Food Trucks,6,0.0828,4
+Media,Doctors,7,0.0827,5
+Newtown,Hair Salons,5,0.0827,4
+Philadelphia,Banks & Credit Unions,28,0.0825,31
+New Port Richey,Pets,9,0.0824,10
+Plant City,Ice Cream & Frozen Yogurt,6,0.0823,6
+Brandon,Shopping,152,0.0822,331
+Levittown,Nightlife,11,0.0821,13
+Dunedin,Beer Bar,6,0.0821,13
+Tampa,Furniture Stores,39,0.0821,41
+Exton,Local Services,14,0.0819,12
+St. Petersburg,Parks,13,0.0819,23
+King of Prussia,Furniture Stores,7,0.0818,8
+Philadelphia,Landmarks & Historical Buildings,52,0.0818,135
+Langhorne,Health & Medical,8,0.0816,8
+Spring Hill,Food,69,0.0816,164
+Clearwater,Tanning,5,0.0815,6
+Norristown,Local Services,14,0.0815,11
+Clearwater,Spray Tanning,5,0.0815,6
+Trinity,Doctors,5,0.0814,3
+Havertown,Coffee & Tea,8,0.0813,8
+Lansdale,Shopping,25,0.0812,31
+Port Richey,Pizza,5,0.0811,9
+Tampa,Telecommunications,7,0.081,5
+Tampa,Farmers Market,8,0.081,4
+Ardmore,Shopping,44,0.081,73
+Doylestown,Local Services,12,0.0809,9
+King of Prussia,Grocery,6,0.0808,8
+New Port Richey,Health & Medical,21,0.0805,19
+Seminole,Grocery,6,0.0805,13
+Philadelphia,Races & Competitions,6,0.0804,11
+Tampa,Street Vendors,12,0.0804,23
+Tampa,Accessories,27,0.0804,24
+Tampa,Jewelry,20,0.0804,21
+Tarpon Springs,Fast Food,8,0.0803,10
+Largo,Shopping,100,0.0803,164
+Wesley Chapel,Grocery,7,0.0802,12
+Clearwater,Drugstores,11,0.0801,15
+Springfield,Home Services,6,0.08,7
+Philadelphia,Martial Arts,7,0.08,5
+Huntingdon Valley,Health & Medical,9,0.0799,7
+Largo,Wine & Spirits,11,0.0799,15
+Largo,Beer,11,0.0799,15
+Tampa,Physical Therapy,12,0.0798,12
+Tampa,Antiques,17,0.0798,19
+Doylestown,Music & Video,5,0.0794,5
+Doylestown,Books,5,0.0794,5
+Doylestown,Mags,5,0.0794,5
+Glen Mills,Sandwiches,8,0.0794,8
+Philadelphia,Shoe Stores,40,0.0794,56
+Tampa,Flowers & Gifts,22,0.0793,20
+Tampa,Shopping,1162,0.0791,2927
+King of Prussia,Home Decor,8,0.0791,9
+Philadelphia,Music & DVDs,25,0.0791,67
+Tampa,Active Life,347,0.079,616
+Tarpon Springs,Fashion,5,0.079,4
+St. Petersburg,Art Galleries,7,0.0789,7
+Tampa,Home & Garden,199,0.0787,251
+King of Prussia,Home & Garden,18,0.0786,24
+Tarpon Springs,Active Life,18,0.0785,14
+Palm Harbor,Fast Food,13,0.0785,15
+Exton,Shopping,52,0.0784,65
+Warrington,Shopping,21,0.0784,20
+King of Prussia,Hair Salons,6,0.0784,7
+Levittown,Sandwiches,13,0.0783,13
+West Chester,Juice Bars & Smoothies,5,0.0782,9
+Media,Local Services,5,0.0781,3
+Philadelphia,Music & Video,89,0.0781,218
+Philadelphia,Mags,89,0.0781,218
+Philadelphia,Books,89,0.0781,218
+Tampa,Performing Arts,7,0.0781,5
+Lansdale,Event Planning & Services,6,0.078,5
+Holmes,Restaurants,10,0.0779,14
+Tampa,Seafood Markets,8,0.0778,7
+Pottstown,Home & Garden,7,0.0778,6
+Spring Hill,Home Services,18,0.0778,27
+Paoli,Shopping,5,0.0777,5
+Aston,Restaurants,45,0.0777,145
+Philadelphia,Comic Books,5,0.0777,9
+Philadelphia,Toy Stores,16,0.0777,14
+St. Pete Beach,Shopping,5,0.0776,7
+Philadelphia,Diagnostic Services,8,0.0774,5
+Warrington,Home Services,6,0.0773,4
+Wesley Chapel,Drugstores,7,0.0773,12
+Brandon,Cosmetics & Beauty Supply,5,0.0772,5
+Lahaska,Food,9,0.0772,6
+Pinellas Park,Beauty & Spas,10,0.0771,11
+Brandon,Mobile Phones,11,0.077,8
+Wesley Chapel,Health & Medical,48,0.077,72
+Willow Grove,Fashion,13,0.077,16
+Tampa,Contractors,18,0.0768,14
+Folsom,Restaurants,40,0.0768,83
+West Chester,Pets,6,0.0767,5
+Lansdale,Doctors,6,0.0767,4
+Broomall,Local Services,6,0.0766,6
+New Port Richey,Parks,6,0.0763,5
+Tampa,Organic Stores,13,0.0763,13
+New Port Richey,Contractors,5,0.0763,4
+Philadelphia,Financial Services,61,0.0763,67
+Tampa,Fishing,5,0.0763,4
+Willow Grove,Department Stores,8,0.0762,10
+Garnet Valley,Restaurants,10,0.0762,14
+West Chester,Books,5,0.0761,4
+West Chester,Music & Video,5,0.0761,4
+West Chester,Mags,5,0.0761,4
+St. Petersburg,Shopping,87,0.0759,109
+Brandon,Discount Store,5,0.0759,4
+Harleysville,Beauty & Spas,7,0.0756,6
+Philadelphia,Public Services & Government,90,0.0755,180
+Clearwater,Shopping,254,0.0754,465
+Hatboro,Italian,5,0.0753,8
+Tampa,Electronics,18,0.0753,15
+King of Prussia,Hair Removal,7,0.0752,7
+Philadelphia,Vinyl Records,19,0.0752,47
+Clearwater,Cosmetics & Beauty Supply,8,0.0752,5
+West Chester,Health & Medical,20,0.0751,18
+Pottstown,Local Services,8,0.0751,5
+Morrisville,Automotive,5,0.0751,4
+Palm Harbor,Breweries,5,0.0751,12
+New Port Richey,Pet Services,6,0.0749,7
+Saint Petersburg,Doctors,15,0.0749,11
+Quakertown,Food,12,0.0748,16
+Spring Hill,Pet Services,6,0.0748,5
+Penndel,Pizza,5,0.0747,10
+Clearwater,Professional Services,12,0.0746,9
+Tampa,Mobile Phones,9,0.0746,6
+Clearwater,Financial Services,10,0.0746,7
+Philadelphia,Periodontists,5,0.0745,5
+Norristown,Health & Medical,9,0.0745,9
+Saint Petersburg,Shopping,161,0.0745,255
+Riverview,Coffee & Tea,29,0.0743,37
+Norristown,Shopping,29,0.0743,30
+Abington,Food,8,0.0743,8
+Madeira Beach,Shopping,10,0.0743,9
+Plant City,Food,48,0.0742,132
+Newtown,Fashion,5,0.0742,3
+Tampa,Medical Centers,26,0.0742,23
+Tarpon Springs,Sandwiches,11,0.074,13
+New Port Richey,Home Services,24,0.074,24
+Philadelphia,Men's Clothing,84,0.0739,114
+Bryn Mawr,Shopping,19,0.0739,20
+Dunedin,Fast Food,7,0.0738,12
+Norristown,Grocery,7,0.0738,8
+Spring Hill,Pets,12,0.0738,10
+Philadelphia,Convenience Stores,119,0.0737,151
+Lansdale,Automotive,11,0.0737,13
+St Petersburg,Shopping,5,0.0736,5
+Clearwater,Tobacco Shops,7,0.0736,8
+Riverview,Food,105,0.0736,265
+Pottstown,Burgers,15,0.0735,26
+Philadelphia,Donuts,48,0.0733,41
+Pottstown,Cheesesteaks,6,0.0733,6
+Levittown,Food,36,0.0732,48
+Tampa,Packing Supplies,5,0.0732,4
+Tampa,Stadiums & Arenas,5,0.0732,4
+Levittown,American (Traditional),9,0.0731,9
+Oldsmar,Local Services,6,0.0731,6
+Phoenixville,Auto Repair,10,0.073,8
+Tampa,Banks & Credit Unions,22,0.073,16
+Tarpon Springs,Beauty & Spas,11,0.0729,11
+Wayne,Active Life,6,0.0729,7
+Glenolden,Restaurants,21,0.0728,47
+Philadelphia,Fashion,396,0.0728,867
+Land O Lakes,Automotive,5,0.0728,6
+Philadelphia,Shared Office Spaces,6,0.0726,7
+Plymouth Meeting,Shopping,24,0.0726,32
+Philadelphia,Women's Clothing,159,0.0725,322
+Phoenixville,Shopping,39,0.0725,54
+Philadelphia,Antiques,27,0.0724,43
+Philadelphia,Car Wash,11,0.0724,7
+Saint Petersburg,Grocery,20,0.0724,30
+Pinellas Park,Shopping,30,0.0724,34
+Bryn Mawr,Food,36,0.0723,97
+Fairless Hills,Shopping,18,0.0723,22
+Langhorne,Food,32,0.0723,43
+Largo,Tobacco Shops,5,0.0723,8
+Brandon,Real Estate,8,0.0722,9
+Spring Hill,Veterinarians,6,0.0722,5
+Tampa,Cosmetics & Beauty Supply,35,0.0722,29
+Clearwater,Golf,5,0.072,16
+Philadelphia,Libraries,6,0.072,4
+Tampa,Dog Parks,14,0.0719,18
+Palm Harbor,Local Services,18,0.0719,16
+Port Richey,Arts & Entertainment,5,0.0719,6
+Palm Harbor,Ice Cream & Frozen Yogurt,7,0.0719,8
+Plant City,Fast Food,27,0.0719,47
+Royersford,Nightlife,6,0.0718,4
+Philadelphia,Drugstores,60,0.0718,69
+Tampa,Local Flavor,33,0.0718,35
+Royersford,Bars,6,0.0718,4
+King of Prussia,Shopping,91,0.0717,131
+St. Petersburg,Arts & Entertainment,28,0.0717,27
+Philadelphia,Local Flavor,104,0.0716,150
+Chalfont,Pets,5,0.0716,4
+Prospect Park,Restaurants,26,0.0716,71
+Morrisville,Pizza,8,0.0716,16
+Lutz,Coffee & Tea,10,0.0715,8
+Levittown,Restaurants,99,0.0715,316
+Media,Fashion,8,0.0715,5
+Telford,Restaurants,11,0.0714,23
+Doylestown,Home Services,18,0.0714,15
+Bridgeport,Food,6,0.0713,6
+Limerick,Shopping,5,0.0712,4
+Spring Hill,Hair Salons,7,0.0712,7
+Riverview,Automotive,29,0.0712,31
+Lansdale,Health & Medical,19,0.0711,18
+Exton,Health & Medical,22,0.0711,19
+Philadelphia,Self Storage,10,0.0711,15
+Seminole,Food,33,0.071,56
+Brandon,Local Services,20,0.071,14
+Bristol,Food,21,0.071,25
+Tampa,Breweries,30,0.071,117
+Yardley,Active Life,5,0.071,3
+Phoenixville,Automotive,12,0.0709,10
+Bensalem,Fast Food,11,0.0709,11
+Limerick,Health & Medical,7,0.0709,6
+Swarthmore,Food,5,0.0709,6
+West Chester,Doctors,5,0.0709,4
+Wesley Chapel,Home Services,14,0.0709,13
+Newtown,Active Life,6,0.0708,5
+West Chester,Fashion,6,0.0708,6
+Ardmore,Coffee & Tea,9,0.0708,9
+Limerick,Active Life,5,0.0708,9
+Newtown Square,Food,26,0.0708,28
+Brandon,Electronics,7,0.0708,5
+Newtown,Fitness & Instruction,6,0.0708,5
+Ruskin,Fast Food,5,0.0707,4
+Morrisville,Restaurants,46,0.0707,175
+Wesley Chapel,Dentists,8,0.0707,10
+Royersford,Sandwiches,8,0.0706,6
+Havertown,Nightlife,11,0.0704,22
+Havertown,Bars,11,0.0704,22
+Philadelphia,Arts & Entertainment,422,0.0703,987
+Saint Petersburg,Health & Medical,91,0.0702,95
+Philadelphia,Thrift Stores,22,0.0702,34
+Pottstown,Food,51,0.0701,102
+Huntingdon Valley,Local Services,5,0.07,4
+Largo,Barbers,6,0.0699,5
+Saint Petersburg,Home & Garden,23,0.0699,23
+Tampa,Museums,7,0.0699,10
+Clifton Heights,Restaurants,25,0.0698,49
+Montgomeryville,Shopping,7,0.0698,6
+Brandon,Home Services,37,0.0698,41
+Warminster,Shopping,13,0.0698,11
+Dover,Automotive,5,0.0697,6
+St. Petersburg,Used,6,0.0697,7
+Philadelphia,Roofing,15,0.0697,14
+St. Petersburg,Vintage & Consignment,6,0.0697,7
+King of Prussia,Women's Clothing,15,0.0696,16
+Saint Petersburg,Venues & Event Spaces,7,0.0696,5
+Apollo Beach,Active Life,5,0.0696,3
+Trevose,Fast Food,5,0.0696,6
+Philadelphia,Home Decor,59,0.0694,64
+Philadelphia,Street Vendors,40,0.0694,83
+Wyncote,Food,5,0.0694,8
+Morrisville,Italian,8,0.0694,14
+Souderton,Restaurants,36,0.0694,96
+Riverview,Mexican,5,0.0692,4
+New Port Richey,Automotive,24,0.0692,23
+Philadelphia,Used,45,0.0692,86
+Upper Darby,Korean,9,0.0692,17
+Philadelphia,Vintage & Consignment,45,0.0692,86
+Levittown,Shopping,18,0.0691,19
+Tampa,Food Trucks,101,0.0691,142
+Saint Petersburg,Dentists,12,0.069,8
+Norristown,Food,40,0.069,43
+Lithia,Italian,6,0.0689,6
+Tampa,Landscaping,7,0.0688,6
+Philadelphia,Shopping,1851,0.0688,5289
+Tampa,Ethnic Food,23,0.0688,32
+Tampa,Building Supplies,17,0.0688,14
+New Port Richey,Beauty & Spas,40,0.0688,41
+Palm Harbor,Active Life,7,0.0688,5
+Philadelphia,Parks,60,0.0688,98
+West Chester,Shopping,51,0.0688,64
+Philadelphia,Department Stores,45,0.0687,55
+West Chester,Auto Repair,15,0.0686,14
+Upper Darby,American (Traditional),5,0.0685,4
+Tampa,Thrift Stores,13,0.0685,22
+Royersford,Beauty & Spas,12,0.0684,12
+Brandon,Active Life,13,0.0684,14
+St. Petersburg,Home & Garden,12,0.0683,13
+Dresher,Food,10,0.0683,13
+Zephyrhills,Fast Food,5,0.0682,5
+Philadelphia,Accessories,73,0.0682,83
+Prospect Park,Pizza,5,0.0682,8
+Clearwater,Yoga,8,0.068,6
+Folcroft,Restaurants,9,0.068,11
+Paoli,Food,14,0.068,28
+Havertown,Automotive,11,0.068,10
+Clearwater,Health & Medical,76,0.0679,74
+Philadelphia,Professional Sports Teams,5,0.0679,9
+Royersford,American (Traditional),5,0.0679,7
+Seminole,Health & Medical,21,0.0679,24
+Blue Bell,Automotive,5,0.0678,4
+Brandon,Grocery,15,0.0678,13
+Bensalem,Hair Salons,5,0.0678,6
+Langhorne,Automotive,16,0.0678,17
+Elkins Park,Food,16,0.0678,25
+Bryn Mawr,Health & Medical,6,0.0678,5
+Port Richey,Auto Repair,5,0.0678,4
+Norristown,Fast Food,6,0.0677,6
+King of Prussia,Fashion,26,0.0676,33
+Doylestown,Sandwiches,11,0.0676,12
+Tampa,Appliances,12,0.0676,12
+Philadelphia,Stadiums & Arenas,5,0.0675,8
+St. Petersburg,Real Estate,6,0.0675,5
+Royersford,Fast Food,8,0.0675,12
+Warminster,Food,24,0.0674,38
+Pinellas Park,Local Services,5,0.0674,5
+Tampa,Music & Video,12,0.0673,12
+Plymouth Meeting,Fashion,8,0.0673,6
+Tampa,Books,12,0.0673,12
+Tampa,Mags,12,0.0673,12
+Sun City Center,Food,9,0.0673,15
+King Of Prussia,Shopping,17,0.0672,18
+Ardmore,Wine & Spirits,6,0.0672,8
+Ardmore,Beer,6,0.0672,8
+Tampa,Insurance,6,0.0672,5
+Philadelphia,Art Supplies,10,0.0672,17
+Odessa,Restaurants,24,0.0672,40
+Fairless Hills,Nightlife,5,0.0672,6
+Warrington,Grocery,6,0.0672,3
+Saint Petersburg,Beer,9,0.0672,9
+Saint Petersburg,Wine & Spirits,9,0.0672,9
+Trinity,Health & Medical,13,0.0671,10
+Plant City,Sandwiches,9,0.0671,12
+Bensalem,Health & Medical,7,0.0671,5
+Flourtown,Food,11,0.0671,22
+Tarpon Springs,Specialty Food,6,0.067,5
+Levittown,Breakfast & Brunch,5,0.067,6
+Conshohocken,Fitness & Instruction,5,0.067,5
+Conshohocken,Active Life,5,0.067,5
+Conshohocken,Gyms,5,0.067,5
+Tampa,Used,14,0.0669,14
+Royersford,Automotive,8,0.0669,6
+Tampa,Vintage & Consignment,14,0.0669,14
+Tampa,Professional Services,57,0.0669,43
+Tarpon Springs,Home Services,6,0.0668,3
+King of Prussia,Department Stores,7,0.0667,7
+Malvern,Shopping,6,0.0667,4
+St. Petersburg,Active Life,46,0.0667,58
+Dublin,Restaurants,7,0.0666,8
+Philadelphia,Home & Garden,185,0.0666,250
+Saint Petersburg,Pet Sitting,5,0.0666,5
+Land O' Lakes,Nightlife,5,0.0666,5
+Land O' Lakes,Bars,5,0.0666,5
+West Chester,Automotive,43,0.0666,47
+Tampa,Boxing,6,0.0666,5
+Pottstown,Breakfast & Brunch,7,0.0666,8
+Lansdale,Coffee & Tea,8,0.0666,7
+Tampa,Photography Stores & Services,6,0.0664,3
+Philadelphia,Shaved Ice,11,0.0664,13
+Ardmore,Local Services,5,0.0664,3
+Clearwater,Grocery,25,0.0664,29
+Safety Harbor,Health & Medical,5,0.0664,3
+Audubon,Food,9,0.0664,10
+Tampa,Financial Services,41,0.0663,34
+Dunedin,Beauty & Spas,12,0.0663,8
+Wayne,Local Services,7,0.0663,5
+Philadelphia,Knitting Supplies,7,0.0663,13
+Palm Harbor,Health & Medical,39,0.0663,37
+Hudson,American (Traditional),14,0.0663,14
+Oldsmar,Food,35,0.0662,40
+Holiday,Restaurants,31,0.0662,72
+Ruskin,Food,11,0.0662,17
+Richboro,Sandwiches,8,0.0661,13
+Langhorne,Home Services,9,0.0661,9
+Philadelphia,Food Stands,58,0.0661,135
+Tampa,Bookstores,5,0.066,4
+King of Prussia,Health & Medical,8,0.066,5
+Spring Hill,Doctors,7,0.0659,6
+Spring Hill,Dentists,7,0.0659,8
+Tampa,Fitness & Instruction,127,0.0659,179
+Philadelphia,Arts & Crafts,59,0.0659,104
+Newtown,Event Planning & Services,11,0.0659,10
+Tampa,Trainers,41,0.0659,39
+Seminole,Fast Food,16,0.0658,45
+Palm Harbor,Hair Salons,10,0.0658,11
+Zephyrhills,Food,23,0.0657,37
+Aston,Italian,5,0.0657,5
+Tampa,Beer,78,0.0657,78
+Tampa,Wine & Spirits,78,0.0657,78
+Seminole,Active Life,9,0.0656,12
+Tampa,Hardware Stores,10,0.0655,8
+Lutz,Sandwiches,11,0.0655,9
+Tampa,Bubble Tea,24,0.0655,59
+Spring Hill,Chicken Wings,7,0.0655,6
+Port Richey,Buffets,6,0.0655,9
+Largo,Vape Shops,8,0.0654,10
+Clearwater,Real Estate,18,0.0654,20
+Philadelphia,Turkish,7,0.0654,6
+Richboro,Pizza,6,0.0654,17
+Philadelphia,Dry Cleaning & Laundry,40,0.0653,35
+Dunedin,Food,96,0.0653,216
+Brookhaven,Burgers,7,0.0653,7
+Phoenixville,Arts & Entertainment,8,0.0652,14
+Plant City,Burgers,12,0.0651,13
+Tampa,Health Markets,6,0.0651,7
+Palm Harbor,Home Services,27,0.0651,25
+Penndel,Restaurants,7,0.065,14
+Seffner,Fast Food,8,0.065,27
+Philadelphia,Laundry Services,42,0.0649,36
+Tampa,Nurseries & Gardening,26,0.0649,23
+Tampa,Specialty Food,165,0.0649,239
+Tampa,Doctors,151,0.0649,167
+Richboro,Restaurants,33,0.0648,118
+Hudson,Automotive,8,0.0648,4
+Tarpon Springs,Food,51,0.0648,92
+Dunedin,Local Services,8,0.0647,10
+Land O' Lakes,Food,8,0.0646,7
+Saint Petersburg,Fitness & Instruction,7,0.0645,4
+Spring Hill,Automotive,16,0.0645,16
+Largo,Home & Garden,16,0.0645,14
+Doylestown,Food,64,0.0644,162
+Largo,Food,115,0.0644,222
+Plant City,Beauty & Spas,11,0.0644,13
+Brandon,Health & Medical,74,0.0644,75
+Spring Hill,Chinese,6,0.0644,6
+Doylestown,Automotive,26,0.0644,31
+Philadelphia,Pharmacy,13,0.0643,10
+Dunedin,Pizza,13,0.0643,13
+King Of Prussia,Fashion,7,0.0643,8
+Lansdowne,Beauty & Spas,5,0.0643,4
+Bensalem,Sandwiches,22,0.0642,30
+Temple Terrace,Fast Food,8,0.0642,11
+Tampa,IT Services & Computer Repair,13,0.0642,11
+Philadelphia,Tapas Bars,11,0.0642,12
+Hatboro,Pizza,9,0.0642,11
+Pottstown,Chinese,7,0.0642,6
+Collegeville,Health & Medical,15,0.0642,14
+Tampa,Yoga,20,0.0641,20
+Lansdale,Fast Food,9,0.0641,11
+Oldsmar,Sandwiches,11,0.0641,18
+Tampa,Chiropractors,13,0.0641,15
+Warminster,Pizza,16,0.064,24
+Clearwater,Doctors,12,0.064,7
+Phoenixville,Food,74,0.0639,216
+Spring Hill,Beauty & Spas,37,0.0639,48
+Palm Harbor,Coffee & Tea,6,0.0639,7
+Ardmore,Home Services,6,0.0639,4
+Blue Bell,Italian,10,0.0639,13
+Pottstown,Automotive,6,0.0639,5
+Hudson,Sandwiches,7,0.0639,6
+Seminole,Beauty & Spas,15,0.0638,12
+Philadelphia,Real Estate Services,13,0.0638,13
+West Chester,Specialty Food,10,0.0638,10
+Philadelphia,African,15,0.0637,34
+Pottstown,Diners,5,0.0637,6
+Largo,Fast Food,38,0.0637,49
+Bristol,Restaurants,41,0.0637,94
+Saint Petersburg,Education,6,0.0636,4
+Aston,Pizza,9,0.0636,21
+Clearwater,Appliances,6,0.0635,5
+Levittown,Pizza,25,0.0634,34
+Philadelphia,Cinema,30,0.0634,73
+New Port Richey,Nail Salons,13,0.0634,10
+West Chester,Active Life,19,0.0634,19
+Philadelphia,Community Service/Non-Profit,17,0.0633,12
+Schwenksville,Pizza,5,0.0633,11
+Spring Hill,Health & Medical,27,0.0633,40
+Philadelphia,Bookstores,27,0.0632,43
+Warrington,Food,26,0.0631,45
+Downingtown,Home Services,10,0.0631,7
+Clearwater,Gyms,6,0.0631,5
+Philadelphia,Keys & Locksmiths,11,0.0631,12
+Warminster,Burgers,6,0.0631,4
+Doylestown,Hair Salons,9,0.0631,8
+Exton,Food,50,0.0629,73
+Largo,Parks,5,0.0629,6
+West Chester,Fitness & Instruction,12,0.0628,13
+Upper Darby,Beauty & Spas,12,0.0628,14
+Lutz,Automotive,12,0.0628,11
+Folsom,Sandwiches,8,0.0628,10
+Philadelphia,Electronics,27,0.0627,24
+Downingtown,Automotive,13,0.0627,11
+Philadelphia,Interior Design,9,0.0627,9
+Hudson,Restaurants,90,0.0626,263
+Philadelphia,Farmers Market,11,0.0626,11
+Tampa,Cinema,12,0.0626,22
+Clearwater,Fitness & Instruction,12,0.0626,9
+Lithia,Food,13,0.0625,25
+Horsham,Automotive,6,0.0625,5
+Philadelphia,Dance Clubs,64,0.0625,139
+Wesley Chapel,Food,73,0.0624,190
+Brandon,Pets,10,0.0624,6
+Tampa,Health & Medical,597,0.0623,835
+Saint Petersburg,Home Services,69,0.0623,70
+Norristown,Restaurants,129,0.0623,392
+St. Petersburg,Barbeque,5,0.0623,5
+Philadelphia,Appliances & Repair,14,0.0623,9
+Lansdale,Food,51,0.0623,87
+Ardmore,Food,53,0.0622,133
+Trinity,American (New),5,0.0622,6
+Jenkintown,Local Services,7,0.062,5
+North Wales,Food,22,0.062,21
+Harleysville,Food,12,0.062,16
+Tampa,Local Services,354,0.062,403
+Saint Petersburg,Active Life,31,0.062,23
+Clearwater,General Dentistry,6,0.062,4
+Oldsmar,Automotive,7,0.0619,7
+Lutz,Health & Medical,25,0.0619,21
+Tampa,Gyms,59,0.0619,66
+Brandon,Event Planning & Services,6,0.0618,6
+Philadelphia,Floral Designers,6,0.0618,4
+Palm Harbor,Food,84,0.0617,147
+Largo,Tires,7,0.0617,5
+Brookhaven,Restaurants,26,0.0617,54
+King of Prussia,Mags,7,0.0617,5
+Dunedin,Delis,5,0.0617,4
+King of Prussia,Books,7,0.0617,5
+King of Prussia,Music & Video,7,0.0617,5
+Havertown,Pizza,13,0.0616,26
+Narberth,Shopping,11,0.0616,11
+Tampa,Barbers,41,0.0615,48
+Largo,Delis,10,0.0615,7
+Havertown,Health & Medical,6,0.0615,4
+Seffner,Food,16,0.0615,24
+Philadelphia,Grocery,211,0.0615,329
+Tampa,Dentists,56,0.0614,51
+Norristown,Home Services,10,0.0614,7
+Pottstown,Health & Medical,9,0.0614,6
+Temple Terrace,Burgers,6,0.0614,7
+Tampa,Motorcycle Dealers,8,0.0614,12
+Spring Hill,Ice Cream & Frozen Yogurt,8,0.0614,8
+Clearwater,Active Life,61,0.0614,65
+Exton,Automotive,8,0.0614,6
+Philadelphia,Gift Shops,8,0.0613,5
+Oldsmar,Specialty Food,5,0.0612,3
+Brandon,Day Spas,9,0.0612,8
+Glenolden,Pizza,9,0.0612,14
+Riverview,Barbeque,8,0.0612,12
+Willow Grove,Health & Medical,8,0.0612,7
+Pinellas Park,Fashion,5,0.0612,4
+Wesley Chapel,Active Life,14,0.0612,11
+Lansdale,Home Services,10,0.0611,9
+Tampa,Pet Stores,14,0.0611,14
+Spring Hill,Restaurants,145,0.0611,704
+Paoli,Coffee & Tea,6,0.061,9
+Clearwater,Home Services,139,0.0609,165
+Wesley Chapel,Fast Food,11,0.0609,20
+Philadelphia,Psychics,6,0.0609,23
+Palm Harbor,Cafes,8,0.0609,17
+Philadelphia,Supernatural Readings,6,0.0609,23
+Bryn Mawr,Coffee & Tea,9,0.0608,12
+Dunedin,Active Life,16,0.0608,18
+Doylestown,Coffee & Tea,8,0.0608,8
+Chester,Restaurants,16,0.0607,20
+Philadelphia,Musical Instruments & Teachers,11,0.0607,8
+Aston,Sandwiches,10,0.0607,8
+Royersford,Food,36,0.0607,52
+Abington,Beauty & Spas,10,0.0606,7
+Clearwater,Home Decor,13,0.0606,13
+Lansdale,Beauty & Spas,20,0.0606,20
+Pottstown,Home Services,13,0.0605,9
+Croydon,Restaurants,15,0.0605,28
+Warminster,Auto Repair,8,0.0605,6
+Tampa,Food,1630,0.0605,5530
+Bensalem,Beauty & Spas,26,0.0604,32
+Tampa,Real Estate Services,10,0.0604,15
+Philadelphia,Laundromat,7,0.0603,7
+Tampa,Guns & Ammo,8,0.0603,5
+Tampa,Spanish,25,0.0603,25
+Philadelphia,General Dentistry,29,0.0603,20
+Saint Petersburg,Pet Services,22,0.0603,26
+Havertown,Sports Bars,6,0.0603,6
+Largo,Automotive,46,0.0603,42
+Hatboro,Food,16,0.0602,17
+Tampa,Flooring,11,0.0602,8
+Ambler,Nightlife,11,0.0602,14
+Philadelphia,Music Venues,71,0.0602,152
+Ambler,Bars,11,0.0602,14
+Zephyrhills,Automotive,5,0.0602,3
+Broomall,Sandwiches,10,0.0602,9
+St. Petersburg,Hair Salons,6,0.0601,4
+Philadelphia,Photography Stores & Services,16,0.0601,15
+Norristown,Automotive,12,0.0601,10
+Bryn Mawr,Sandwiches,11,0.06,13
+Doylestown,Ice Cream & Frozen Yogurt,8,0.06,6
+Havertown,Breakfast & Brunch,6,0.0599,12
+Thorndale,Restaurants,17,0.0599,46
+Tampa,Cannabis Clinics,7,0.0599,12
+Schwenksville,Restaurants,16,0.0599,27
+Collingdale,Restaurants,6,0.0598,5
+Spring Hill,Nail Salons,15,0.0597,17
+Ridley Park,Restaurants,13,0.0596,14
+Malvern,Grocery,5,0.0596,5
+East Norriton,American (Traditional),6,0.0595,9
+Richboro,Italian,8,0.0595,23
+Philadelphia,Lounges,129,0.0595,213
+Philadelphia,Dance Studios,14,0.0594,11
+Pinellas Park,Sandwiches,14,0.0594,18
+Hudson,Bars,9,0.0594,12
+Tampa,Obstetricians & Gynecologists,8,0.0594,7
+St. Petersburg,Home Services,14,0.0593,11
+West Chester,Apartments,8,0.0593,11
+Zephyrhills,Breakfast & Brunch,7,0.0593,7
+Palm Harbor,Automotive,18,0.0593,17
+Fairless Hills,Restaurants,30,0.0593,50
+Frazer,Restaurants,12,0.0593,13
+Clearwater,Home & Garden,42,0.0593,50
+Lutz,Food,76,0.0593,111
+West Chester,Real Estate,8,0.0593,11
+Phoenixville,Breweries,9,0.0592,31
+Chadds Ford,Food,5,0.0592,5
+Newtown,Beauty & Spas,24,0.0592,28
+Riverview,Fast Food,33,0.0591,56
+Hudson,Nightlife,12,0.0591,15
+Wesley Chapel,Coffee & Tea,13,0.0591,15
+King of Prussia,Food,62,0.0591,92
+Tampa,General Dentistry,28,0.059,25
+Philadelphia,Mattresses,5,0.0589,5
+Marcus Hook,Restaurants,6,0.0589,7
+West Chester,Home Services,36,0.0589,37
+Philadelphia,Indonesian,15,0.0589,55
+Saint Petersburg,Hair Salons,15,0.0589,10
+Clearwater,Local Services,83,0.0589,81
+Valrico,Burgers,5,0.0589,6
+Upper Chichester,Restaurants,5,0.0589,4
+Media,American (Traditional),15,0.0588,16
+Tampa,Latin American,90,0.0588,145
+Clearwater,Specialty Food,12,0.0588,9
+Philadelphia,Playgrounds,9,0.0587,5
+Tampa,Tanning,6,0.0587,6
+Harleysville,Pizza,7,0.0587,15
+Morrisville,Beauty & Spas,8,0.0587,6
+Apollo Beach,Restaurants,32,0.0587,115
+Wesley Chapel,Breakfast & Brunch,13,0.0587,26
+Palm Harbor,Sports Bars,8,0.0586,7
+Tampa,Cannabis Dispensaries,7,0.0586,11
+Spring Hill,Hair Removal,6,0.0586,5
+Dunedin,Arts & Entertainment,8,0.0586,10
+Lutz,Latin American,6,0.0586,4
+Oldsmar,Fast Food,10,0.0585,6
+Hudson,Home Services,10,0.0585,7
+Plant City,Home Services,5,0.0585,6
+Lithia,Pizza,5,0.0585,6
+Chalfont,Food,12,0.0584,13
+Southampton,Beauty & Spas,8,0.0584,5
+Saint Petersburg,Local Services,35,0.0582,26
+Largo,Local Services,42,0.0582,43
+Tampa,Irish,10,0.0581,10
+Lithia,Restaurants,25,0.0581,77
+Largo,Active Life,26,0.0581,23
+Largo,Sandwiches,36,0.0581,43
+Palm Harbor,Salad,7,0.058,7
+Clearwater,Asian Fusion,7,0.058,5
+Pottstown,American (New),6,0.058,8
+Philadelphia,Korean,67,0.0579,121
+Oldsmar,Breakfast & Brunch,6,0.0579,8
+Doylestown,Arts & Entertainment,10,0.0579,8
+New Hope,Fashion,6,0.0579,6
+Phoenixville,Sandwiches,11,0.0579,20
+Bensalem,Breakfast & Brunch,7,0.0578,6
+Jenkintown,Shopping,23,0.0578,23
+Philadelphia,Shopping Centers,6,0.0578,7
+Conshohocken,Local Services,11,0.0578,10
+Chadds Ford,Sandwiches,5,0.0578,5
+Pinellas Park,Food,50,0.0578,97
+Tampa,Dim Sum,6,0.0578,14
+Clearwater,Dentists,9,0.0577,7
+Port Richey,Chinese,7,0.0577,9
+Tampa,Beer Bar,26,0.0577,46
+Clearwater,Cosmetic Dentists,9,0.0577,7
+Brandon,Skin Care,11,0.0577,7
+St. Petersburg,Gyms,5,0.0577,4
+Avondale,Restaurants,13,0.0577,23
+West Chester,Gyms,6,0.0576,4
+Philadelphia,Urgent Care,13,0.0576,9
+Valrico,Automotive,11,0.0576,9
+Phoenixville,Health & Medical,10,0.0576,11
+East Norriton,Active Life,5,0.0576,5
+Phoenixville,Event Planning & Services,7,0.0575,7
+Zephyrhills,Burgers,8,0.0575,7
+Malvern,Local Services,6,0.0575,4
+Spring Hill,Active Life,8,0.0575,9
+Glen Mills,Fashion,7,0.0575,7
+Havertown,Restaurants,82,0.0574,351
+Norristown,Nail Salons,16,0.0574,19
+Tampa,Delis,52,0.0574,62
+Pottstown,Pizza,26,0.0574,52
+Philadelphia,Dive Bars,50,0.0573,133
+Tampa,Automotive,418,0.0573,518
+Tampa,Vape Shops,15,0.0573,14
+Bala Cynwyd,Sandwiches,8,0.0573,7
+Largo,Desserts,9,0.0573,10
+Lansdowne,Restaurants,40,0.0572,97
+Levittown,Italian,14,0.0572,15
+Tampa,Men's Hair Salons,19,0.0572,16
+King of Prussia,Beauty & Spas,28,0.0572,27
+Lutz,Active Life,11,0.0572,7
+Clearwater,Electronics,8,0.0572,7
+King of Prussia,Accessories,5,0.0572,5
+Feasterville,Restaurants,14,0.0572,18
+Philadelphia,Ophthalmologists,6,0.0571,4
+Philadelphia,Tobacco Shops,29,0.0571,40
+Indian Rocks Beach,Active Life,5,0.0571,5
+Largo,Doctors,8,0.057,5
+Havertown,American (Traditional),10,0.057,17
+Tampa,Cupcakes,9,0.057,7
+Spring Hill,Breakfast & Brunch,10,0.0569,12
+Ardmore,Italian,7,0.0569,6
+West Chester,Coffee & Tea,24,0.0569,30
+Royersford,Pizza,8,0.0568,8
+Tampa,Tree Services,5,0.0568,3
+Lutz,Local Services,9,0.0568,7
+Clearwater,Arts & Entertainment,18,0.0568,14
+Bensalem,Chinese,7,0.0568,5
+Doylestown,Pets,7,0.0568,4
+Tampa,Car Wash,17,0.0567,12
+Brookhaven,Sandwiches,5,0.0567,4
+Clearwater,Oil Change Stations,8,0.0567,6
+Pinellas Park,Burgers,6,0.0567,4
+Audubon,Restaurants,15,0.0567,27
+Doylestown,Beauty & Spas,32,0.0566,46
+Warminster,Beauty & Spas,12,0.0566,12
+Spring Hill,American (Traditional),18,0.0566,38
+Tampa,Keys & Locksmiths,7,0.0566,6
+Wesley Chapel,Local Services,17,0.0566,14
+St. Petersburg,Vegan,6,0.0566,4
+Tarpon Springs,Automotive,8,0.0566,7
+Philadelphia,Jewelry,64,0.0566,77
+Tampa,Peruvian,12,0.0565,24
+Yardley,Delis,6,0.0565,4
+New Port Richey,Coffee & Tea,10,0.0565,8
+Port Richey,Restaurants,93,0.0565,232
+Philadelphia,Delis,161,0.0564,169
+Bala Cynwyd,Fast Food,5,0.0564,10
+Phoenixville,Burgers,6,0.0564,5
+Brandon,Doctors,13,0.0564,7
+Riverview,Burgers,15,0.0564,17
+Norristown,Sandwiches,19,0.0564,21
+Havertown,Home Services,11,0.0564,10
+Philadelphia,Flowers & Gifts,44,0.0563,39
+Odessa,Beauty & Spas,6,0.0562,4
+Philadelphia,Adult Entertainment,19,0.0562,51
+Tampa,Home Services,700,0.0562,928
+Philadelphia,Ethiopian,11,0.0562,25
+Clearwater,Massage Therapy,5,0.0562,6
+Pinellas Park,Coffee & Tea,7,0.0561,6
+Riverview,Desserts,5,0.0561,6
+Wesley Chapel,Desserts,9,0.0561,7
+Philadelphia,Hobby Shops,18,0.0561,14
+Media,Event Planning & Services,6,0.0561,3
+Apollo Beach,Breakfast & Brunch,5,0.0561,14
+Royersford,Restaurants,65,0.0561,228
+St. Petersburg,Wine & Spirits,7,0.056,6
+Apollo Beach,Bars,10,0.056,23
+Apollo Beach,Nightlife,10,0.056,23
+Pottstown,Restaurants,131,0.056,599
+Wesley Chapel,Automotive,17,0.056,15
+Philadelphia,Family Practice,6,0.056,3
+St. Petersburg,Beer,7,0.056,6
+Spring Hill,Mexican,7,0.056,11
+Riverview,Sports Bars,7,0.0559,11
+Philadelphia,Sporting Goods,45,0.0559,44
+Largo,Home Services,59,0.0559,57
+King of Prussia,Local Services,7,0.0559,4
+Pennsburg,Restaurants,10,0.0559,25
+Holland,Restaurants,8,0.0559,7
+Upper Darby,Food,18,0.0559,20
+Palm Harbor,Beauty & Spas,40,0.0559,44
+Norristown,Beauty & Spas,27,0.0559,30
+Philadelphia,Fruits & Veggies,12,0.0558,13
+Narberth,Food,13,0.0558,19
+Philadelphia,Fast Food,260,0.0558,313
+Oaks,Restaurants,10,0.0557,19
+St. Petersburg,Wine Bars,11,0.0557,23
+Trevose,Restaurants,14,0.0557,17
+Palm Harbor,Sandwiches,16,0.0557,12
+Seffner,Nail Salons,5,0.0557,7
+Seffner,Beauty & Spas,5,0.0557,7
+Clearwater,Automotive,78,0.0556,68
+New Hope,Beauty & Spas,10,0.0556,16
+Malvern,Mexican,6,0.0556,9
+Clearwater,Fast Food,46,0.0555,52
+Saint Petersburg,Art Galleries,5,0.0555,5
+Media,Active Life,8,0.0554,8
+Wesley Chapel,Skin Care,9,0.0554,6
+King of Prussia,Men's Clothing,8,0.0554,7
+Plant City,Pizza,6,0.0553,8
+Ardmore,Japanese,6,0.0553,5
+Tampa,Airports,6,0.0553,4
+Philadelphia,Organic Stores,9,0.0553,13
+Dunedin,Nightlife,43,0.0553,119
+Philadelphia,Cosmetics & Beauty Supply,49,0.0552,51
+Philadelphia,Education,82,0.0552,74
+Pipersville,Restaurants,11,0.0552,19
+Bristol,Nightlife,6,0.0552,7
+Saint Petersburg,Pets,31,0.0552,37
+St. Petersburg,Doctors,5,0.0552,3
+Downingtown,Shopping,18,0.0552,15
+Seminole,Local Services,15,0.0552,12
+Doylestown,Vegetarian,5,0.0551,4
+Philadelphia,Doctors,115,0.0551,111
+Clearwater,Auto Repair,19,0.0551,16
+Collegeville,Food,17,0.0551,23
+Bala Cynwyd,Food,11,0.055,11
+Levittown,Beauty & Spas,17,0.055,14
+Saint Petersburg,Cosmetic Dentists,6,0.055,3
+Philadelphia,Noodles,23,0.055,35
+New Hope,Shopping,31,0.055,52
+Valrico,American (Traditional),6,0.055,6
+Tampa,Kitchen & Bath,14,0.055,7
+St. Petersburg,Specialty Food,14,0.055,13
+Wesley Chapel,Sandwiches,8,0.055,10
+Bensalem,American (New),7,0.0549,7
+St. Petersburg,Health & Medical,54,0.0549,43
+Collegeville,Sandwiches,8,0.0549,10
+Tampa,Fast Food,231,0.0549,359
+Narberth,American (New),5,0.0548,9
+Harleysville,Italian,8,0.0548,9
+Pinellas Park,Bubble Tea,6,0.0548,20
+Philadelphia,Beer Gardens,20,0.0548,35
+Bala Cynwyd,Health & Medical,12,0.0548,7
+Tampa,Pubs,47,0.0547,81
+Newtown,Restaurants,93,0.0546,348
+Philadelphia,Dentists,73,0.0546,60
+Swarthmore,Restaurants,15,0.0546,38
+Havertown,American (New),7,0.0545,12
+Warminster,American (Traditional),9,0.0545,12
+Philadelphia,Cards & Stationery,16,0.0545,13
+New Port Richey,American (Traditional),32,0.0545,52
+Tampa,Dry Cleaning & Laundry,21,0.0545,18
+Tampa,Bagels,10,0.0545,7
+Tampa,Laundry Services,26,0.0545,22
+Tampa,Chicken Shop,25,0.0545,31
+San Antonio,Restaurants,6,0.0545,9
+Bensalem,Nail Salons,10,0.0544,12
+Southampton,Burgers,5,0.0544,4
+Clearwater,Bakeries,11,0.0544,10
+Philadelphia,Health Markets,11,0.0544,10
+Clearwater,Sporting Goods,9,0.0544,7
+Tampa,Massage Therapy,28,0.0543,24
+Chalfont,Shopping,6,0.0543,3
+Doylestown,Health & Medical,20,0.0543,18
+Royersford,Coffee & Tea,8,0.0543,6
+Yardley,American (New),6,0.0542,20
+Philadelphia,Elementary Schools,6,0.0542,4
+Dunedin,Sports Bars,8,0.0542,9
+Southampton,Food,12,0.0542,13
+Port Richey,Bars,9,0.0542,11
+Port Richey,Nightlife,9,0.0542,11
+Tampa,Optometrists,14,0.0541,8
+Blue Bell,Restaurants,54,0.0541,185
+Pottstown,Sandwiches,16,0.0541,15
+Dunedin,Bars,40,0.0541,105
+Philadelphia,Active Life,467,0.0541,964
+Philadelphia,Brewpubs,13,0.0541,22
+Boyertown,Restaurants,21,0.0541,54
+Hudson,Italian,9,0.054,11
+Plant City,Desserts,8,0.054,12
+Clearwater,Tires,6,0.0539,4
+Port Richey,Sandwiches,5,0.0539,4
+Tampa,Eyewear & Opticians,12,0.0539,7
+Hudson,Pizza,12,0.0539,17
+Woodlyn,Restaurants,6,0.0539,5
+Phoenixville,Coffee & Tea,7,0.0539,10
+Tampa,Gift Shops,7,0.0539,4
+Philadelphia,Burgers,219,0.0539,246
+Philadelphia,Beer,154,0.0538,197
+Gilbertsville,Restaurants,18,0.0538,26
+Philadelphia,Auto Parts & Supplies,20,0.0538,19
+Brandon,Automotive,32,0.0538,26
+Philadelphia,Preschools,16,0.0538,14
+Clearwater,Auto Parts & Supplies,6,0.0538,4
+Philadelphia,Wine & Spirits,154,0.0538,197
+Tampa,Ice Cream & Frozen Yogurt,99,0.0538,149
+St. Petersburg,Hotels & Travel,8,0.0538,5
+Philadelphia,Automotive,410,0.0537,497
+Newtown,Sandwiches,14,0.0537,19
+Philadelphia,Polish,6,0.0537,6
+Wesley Chapel,Italian,5,0.0537,4
+Perkasie,Restaurants,32,0.0537,78
+Pinellas Park,Soup,6,0.0537,19
+Brandon,Coffee & Tea,12,0.0536,11
+Belleair Bluffs,Food,11,0.0536,10
+St. Petersburg,Fitness & Instruction,15,0.0536,13
+Kennett Square,Arts & Entertainment,5,0.0535,4
+West Chester,Local Services,21,0.0535,22
+Tampa,Hair Stylists,45,0.0535,43
+Tampa,Self Storage,19,0.0534,14
+Levittown,Home Services,11,0.0534,10
+Hatboro,Restaurants,50,0.0534,89
+Philadelphia,Chicken Wings,119,0.0534,113
+Warminster,Automotive,9,0.0534,8
+Philadelphia,Florists,13,0.0533,9
+New Port Richey,Restaurants,207,0.0533,696
+Wesley Chapel,Waxing,9,0.0533,8
+Phoenixville,Cafes,7,0.0533,9
+Clearwater,Apartments,14,0.0533,13
+Yardley,Pizza,8,0.0533,10
+St. Petersburg,Food,149,0.0532,239
+Clearwater,Contractors,9,0.0532,6
+St. Petersburg,Ice Cream & Frozen Yogurt,5,0.0532,4
+Ardmore,Specialty Food,8,0.0532,10
+Phoenixville,Bars,24,0.0532,91
+Downingtown,Auto Repair,11,0.0532,9
+Royersford,Breakfast & Brunch,5,0.0532,8
+Philadelphia,Specialty Food,270,0.0532,390
+King of Prussia,Italian,12,0.0532,11
+Port Richey,Automotive,12,0.0531,11
+Clearwater,Food,248,0.0531,399
+Huntingdon Valley,Beauty & Spas,8,0.0531,8
+Upper Darby,Restaurants,69,0.0531,143
+Wynnewood,Food,14,0.0531,20
+Philadelphia,Medical Centers,16,0.053,11
+Royersford,Italian,5,0.053,9
+Pottstown,American (Traditional),31,0.053,86
+Ardmore,Arts & Entertainment,5,0.053,3
+Lutz,Home Services,11,0.053,7
+Exton,Fast Food,8,0.053,11
+St. Petersburg,Local Services,6,0.053,4
+Conshohocken,Shopping,10,0.053,8
+Largo,Coffee & Tea,21,0.0529,23
+Philadelphia,Professional Services,99,0.0529,82
+New Port Richey,Mexican,11,0.0529,11
+Brandon,Burgers,28,0.0529,34
+St Petersburg,Beauty & Spas,6,0.0529,5
+Philadelphia,Gay Bars,18,0.0528,89
+Wesley Chapel,Cafes,11,0.0528,17
+Chalfont,Pizza,7,0.0528,17
+Tampa,Mexican,159,0.0528,207
+Downingtown,Italian,14,0.0528,18
+Conshohocken,Coffee & Tea,12,0.0528,12
+Philadelphia,Kids Activities,5,0.0528,4
+Collegeville,Beauty & Spas,16,0.0527,12
+Oldsmar,Burgers,5,0.0527,8
+Philadelphia,Food Trucks,105,0.0527,219
+Harleysville,Restaurants,28,0.0526,81
+Media,Restaurants,127,0.0526,515
+Oldsmar,American (Traditional),10,0.0526,15
+Langhorne,Burgers,5,0.0526,5
+Seffner,Chicken Wings,7,0.0526,11
+Valrico,Restaurants,64,0.0525,135
+Media,Burgers,6,0.0525,6
+Tampa,Hair Salons,162,0.0525,161
+Ambler,Coffee & Tea,5,0.0525,4
+Philadelphia,Cheese Shops,10,0.0525,12
+Tampa,Real Estate,164,0.0524,194
+Philadelphia,Painters,21,0.0524,18
+Lansdale,Nail Salons,7,0.0524,7
+Saint Petersburg,Museums,6,0.0524,10
+Yardley,Nightlife,5,0.0524,8
+Seminole,Sandwiches,15,0.0524,28
+Tampa,Playgrounds,8,0.0524,7
+St. Petersburg,Pizza,11,0.0524,8
+Yardley,Bars,5,0.0524,8
+Lutz,Tacos,5,0.0524,5
+Saint Petersburg,Food,218,0.0523,475
+Philadelphia,Eyewear & Opticians,8,0.0523,5
+Malvern,Automotive,6,0.0523,3
+Phoenixville,Nightlife,30,0.0523,114
+Philadelphia,Kosher,10,0.0522,8
+Brandon,Beauty & Spas,93,0.0522,117
+Philadelphia,Yoga,68,0.0522,182
+Tampa,Dive Bars,5,0.0522,4
+Lansdale,Local Services,10,0.0522,7
+Tampa,Parking,8,0.0522,6
+Doylestown,Breakfast & Brunch,12,0.0521,14
+New Port Richey,Bars,27,0.0521,29
+Philadelphia,Children's Clothing,8,0.0521,5
+New Port Richey,Nightlife,27,0.0521,29
+Tampa,Vietnamese,34,0.0521,59
+Dunedin,Sushi Bars,6,0.0521,7
+Broomall,Restaurants,33,0.0521,90
+Tampa,Soul Food,17,0.052,20
+Broomall,Breakfast & Brunch,6,0.052,5
+Palm Harbor,Event Planning & Services,6,0.052,4
+Feasterville Trevose,Pizza,5,0.052,7
+Philadelphia,Health & Medical,712,0.052,943
+Ardmore,Pizza,8,0.052,12
+Bensalem,Italian,9,0.0519,8
+Tampa,Cosmetic Dentists,19,0.0519,14
+Bensalem,Apartments,6,0.0519,5
+Wesley Chapel,Eyelash Service,7,0.0519,7
+Philadelphia,Gyms,94,0.0518,122
+King of Prussia,Restaurants,124,0.0518,420
+Yardley,Food,25,0.0518,36
+Brandon,Desserts,9,0.0518,14
+Pinellas Park,Home Services,8,0.0518,8
+Palm Harbor,Vegetarian,5,0.0518,6
+Conshohocken,Food,40,0.0518,82
+Ardmore,Sandwiches,9,0.0518,9
+New Port Richey,Sandwiches,19,0.0518,24
+Oldsmar,American (New),6,0.0517,10
+Tampa,Apartments,112,0.0517,131
+Boyertown,Italian,5,0.0517,7
+Drexel Hill,Shopping,7,0.0517,5
+Springfield,Beauty & Spas,17,0.0517,23
+Largo,Hair Salons,10,0.0517,7
+Philadelphia,Food,2969,0.0517,10460
+Plant City,Breakfast & Brunch,11,0.0517,10
+Lutz,Restaurants,141,0.0517,449
+Lansdale,Burgers,9,0.0516,8
+Valrico,Home Services,12,0.0516,8
+Philadelphia,Flooring,11,0.0516,8
+Exton,Burgers,13,0.0516,22
+Langhorne,Sandwiches,11,0.0516,11
+Philadelphia,Hot Dogs,13,0.0516,10
+Lansdale,Pizza,18,0.0516,31
+Coatesville,Restaurants,7,0.0516,8
+Downingtown,Beauty & Spas,10,0.0516,12
+Bensalem,Steakhouses,6,0.0516,10
+Brandon,Food,129,0.0516,239
+Philadelphia,Barre Classes,13,0.0515,39
+Philadelphia,Taiwanese,9,0.0515,12
+Land O' Lakes,Restaurants,26,0.0514,53
+Paoli,Beauty & Spas,13,0.0514,15
+St. Petersburg,Fast Food,13,0.0514,10
+Riverview,American (Traditional),23,0.0514,42
+Glenside,Ice Cream & Frozen Yogurt,7,0.0513,6
+Springfield,Sandwiches,7,0.0513,9
+Philadelphia,Fitness & Instruction,223,0.0513,555
+Brandon,Italian,12,0.0513,13
+Palm Harbor,Nightlife,24,0.0513,52
+Trinity,Food,11,0.0512,6
+Feasterville Trevose,Restaurants,13,0.0512,16
+Riverview,Health & Medical,20,0.0512,13
+Eagleville,Restaurants,6,0.0512,9
+Philadelphia,IT Services & Computer Repair,22,0.0512,26
+Ruskin,Restaurants,49,0.0512,153
+Plant City,Restaurants,104,0.0512,517
+Tampa,Weight Loss Centers,9,0.0512,5
+Phoenixville,Mexican,6,0.0512,6
+Philadelphia,Guns & Ammo,5,0.0512,4
+Valrico,Beauty & Spas,15,0.0511,13
+Philadelphia,Golf,9,0.0511,9
+Oldsmar,Restaurants,72,0.0511,190
+Riverview,Breakfast & Brunch,9,0.0511,9
+Tampa,Desserts,99,0.0511,120
+Philadelphia,Dim Sum,22,0.0511,36
+Wesley Chapel,Specialty Food,9,0.0511,13
+Jenkintown,Beauty & Spas,15,0.0511,15
+Chester Springs,Nightlife,6,0.051,14
+Riverview,Chicken Wings,8,0.051,10
+Bala Cynwyd,Pizza,5,0.051,7
+St. Petersburg,Coffee & Tea,31,0.051,36
+Warminster,Restaurants,78,0.051,221
+Tampa,Bakeries,99,0.051,110
+Blue Bell,Food,19,0.0509,21
+Largo,Health & Medical,35,0.0509,29
+Doylestown,Pizza,16,0.0509,25
+Wesley Chapel,Hair Removal,13,0.0509,14
+Plant City,Coffee & Tea,7,0.0508,11
+Yardley,Italian,6,0.0508,9
+Wesley Chapel,Chinese,6,0.0508,4
+Zephyrhills,Restaurants,54,0.0508,229
+West Chester,Food,116,0.0508,254
+Brandon,Hair Salons,8,0.0508,6
+Conshohocken,Nightlife,15,0.0508,45
+Conshohocken,Bars,15,0.0508,45
+Doylestown,Auto Repair,10,0.0508,9
+West Chester,Fast Food,12,0.0508,17
+Philadelphia,Kitchen & Bath,11,0.0507,9
+Brandon,Massage,10,0.0507,8
+Collegeville,Home Services,10,0.0507,10
+Palm Harbor,American (Traditional),17,0.0507,23
+Langhorne,Restaurants,82,0.0507,169
+Bensalem,Restaurants,147,0.0507,414
+Southampton,Restaurants,43,0.0506,88
+Tampa,Shoe Repair,8,0.0506,7
+Warminster,Sandwiches,11,0.0506,14
+Phoenixville,Specialty Food,5,0.0506,3
+Riverview,Pizza,14,0.0506,14
+Gilbertsville,Pizza,7,0.0506,7
+Lutz,Sports Bars,7,0.0505,7
+Yardley,Chinese,5,0.0505,5
+King of Prussia,Sandwiches,17,0.0505,19
+New Port Richey,Breakfast & Brunch,22,0.0505,28
+Philadelphia,Contractors,77,0.0504,74
+Seffner,Restaurants,29,0.0504,60
+Philadelphia,Child Care & Day Care,15,0.0504,12
+Palm Harbor,Bars,22,0.0504,49
+Philadelphia,Local Services,686,0.0503,806
+Springfield,Restaurants,72,0.0502,170
+King Of Prussia,Food,6,0.0502,4
+Limerick,Restaurants,9,0.0502,13
+Saint Petersburg,Beer Bar,16,0.0502,27
+Riverview,Sandwiches,19,0.0502,29
+Tampa,Music Venues,26,0.0501,41
+St Petersburg,Active Life,6,0.0501,4
+Tampa,Chicken Wings,98,0.0501,104
+Philadelphia,Sports Medicine,6,0.0501,4
+Oldsmar,Home Services,13,0.05,9
+Temple Terrace,Food,16,0.05,15
+Collegeville,Salad,7,0.05,9
+Phoenixville,Restaurants,129,0.0499,619
+Zephyrhills,Italian,5,0.0499,8
+Lafayette Hill,Restaurants,23,0.0499,60
+Pinellas Park,Vietnamese,21,0.0499,59
+Saint Petersburg,Jewelry,5,0.0499,3
+Clearwater,Breweries,6,0.0498,4
+Bensalem,Burgers,9,0.0498,8
+Philadelphia,Performing Arts,53,0.0498,74
+Tampa,Burgers,146,0.0498,161
+Bryn Mawr,Pizza,16,0.0498,22
+Safety Harbor,Arts & Entertainment,6,0.0498,5
+Phoenixville,Pubs,5,0.0498,7
+Plymouth Meeting,Home & Garden,5,0.0498,4
+Philadelphia,Ethnic Food,36,0.0497,35
+Hudson,Seafood,6,0.0497,9
+Clearwater,Furniture Stores,12,0.0497,15
+St. Petersburg,Bars,113,0.0497,203
+Tampa,Chinese,69,0.0497,89
+Warminster,Salad,6,0.0496,13
+Tampa,Cafes,103,0.0496,132
+Tampa,Coffee & Tea,270,0.0496,480
+Conshohocken,Pizza,12,0.0496,13
+Seminole,Restaurants,97,0.0495,373
+Philadelphia,Hawaiian,5,0.0495,5
+Wyncote,Restaurants,14,0.0495,13
+Philadelphia,Pubs,156,0.0495,310
+Palm Harbor,Mexican,13,0.0495,14
+Brandon,Specialty Food,6,0.0495,4
+Ardmore,American (Traditional),8,0.0494,11
+Philadelphia,Transportation,48,0.0494,58
+Malvern,Food,30,0.0494,49
+Tampa,Cycling Classes,5,0.0494,6
+Oldsmar,Seafood,6,0.0494,12
+Brandon,Salad,16,0.0494,30
+Media,Pizza,15,0.0493,27
+Zephyrhills,Pizza,5,0.0493,8
+Pinellas Park,Automotive,17,0.0493,14
+Chester Springs,Food,8,0.0493,12
+Seminole,American (Traditional),15,0.0493,36
+Brandon,Home & Garden,16,0.0493,13
+Trinity,Restaurants,16,0.0493,29
+Yardley,Beauty & Spas,8,0.0492,7
+Exton,Indian,7,0.0492,14
+Saint Petersburg,Automotive,50,0.0492,42
+Brandon,Dentists,14,0.0492,11
+Narberth,Restaurants,31,0.0491,77
+Oldsmar,Nightlife,15,0.0491,26
+Oldsmar,Bars,15,0.0491,26
+Doylestown,Restaurants,135,0.0491,659
+Land O Lakes,Restaurants,10,0.0491,16
+Tampa,Sewing & Alterations,12,0.0491,9
+Tampa,Restaurants,2875,0.049,13072
+Wesley Chapel,American (New),10,0.049,13
+Philadelphia,Trainers,61,0.049,87
+St Petersburg,Bars,20,0.049,19
+Saint Petersburg,Arts & Entertainment,25,0.049,27
+Tampa,Blow Dry/Out Services,16,0.049,14
+St. Petersburg,Mexican,12,0.049,11
+Fairless Hills,Automotive,8,0.049,4
+St Petersburg,Nightlife,20,0.049,19
+Bensalem,Automotive,8,0.0489,11
+Doylestown,Desserts,9,0.0489,6
+Largo,Greek,7,0.0489,5
+Tampa,Dry Cleaning,6,0.0489,6
+Tampa,Lounges,36,0.0489,39
+Spring City,Restaurants,13,0.0489,17
+Doylestown,Bars,15,0.0489,27
+Tampa,Dance Clubs,15,0.0489,19
+Philadelphia,Gastropubs,69,0.0488,104
+St. Petersburg,Nightlife,119,0.0488,219
+Elkins Park,Pizza,7,0.0488,9
+Morton,Restaurants,5,0.0488,8
+Clearwater,Hair Salons,18,0.0488,14
+Newtown,American (Traditional),10,0.0488,13
+Tampa,Donuts,16,0.0487,14
+St. Petersburg,Music Venues,7,0.0487,5
+Wayne,Coffee & Tea,9,0.0486,11
+Bensalem,Pizza,26,0.0486,35
+Langhorne,American (Traditional),11,0.0486,18
+Doylestown,Nail Salons,12,0.0486,21
+Philadelphia,Coffee & Tea,731,0.0485,1466
+Dresher,Restaurants,16,0.0485,28
+Sellersville,Restaurants,11,0.0485,18
+Conshohocken,Italian,18,0.0485,28
+Philadelphia,Modern European,9,0.0484,10
+Downingtown,Home & Garden,5,0.0484,6
+Plant City,Nail Salons,8,0.0484,9
+Media,Nightlife,17,0.0484,26
+Palm Harbor,Restaurants,183,0.0484,577
+Saint Petersburg,Fast Food,29,0.0484,30
+Wesley Chapel,Restaurants,136,0.0484,591
+Wesley Chapel,Bars,20,0.0484,33
+Tampa,Soup,18,0.0483,21
+Tarpon Springs,Italian,9,0.0483,9
+Tampa,Pets,100,0.0483,111
+Elkins Park,Restaurants,31,0.0483,63
+Philadelphia,Pizza,599,0.0483,1001
+Tampa,Interval Training Gyms,11,0.0483,14
+Brandon,Ice Cream & Frozen Yogurt,5,0.0483,4
+Dunedin,American (Traditional),23,0.0483,41
+Tampa,Sandwiches,311,0.0483,413
+North Wales,Korean,7,0.0482,17
+Philadelphia,Shades & Blinds,9,0.0482,7
+Palm Harbor,Japanese,6,0.0482,7
+Philadelphia,Vape Shops,14,0.0482,29
+Prospect Park,Italian,6,0.0481,8
+Palm Harbor,Hair Removal,12,0.0481,10
+Media,Breakfast & Brunch,9,0.0481,21
+Spring Hill,Italian,10,0.0481,9
+Spring Hill,American (New),7,0.0481,10
+Seminole,Burgers,9,0.048,12
+Philadelphia,Shipping Centers,30,0.048,27
+Tampa,Gluten-Free,24,0.048,28
+Malvern,Indian,10,0.048,18
+Philadelphia,Hardware Stores,9,0.048,10
+Tampa,Tires,36,0.0479,28
+Conshohocken,Delis,9,0.0479,16
+Ardmore,Nightlife,23,0.0479,37
+Seffner,Burgers,5,0.0479,4
+Tampa,Hookah Bars,5,0.0479,4
+Tampa,Colombian,8,0.0479,5
+Bridgeport,Restaurants,11,0.0479,17
+Lutz,Bars,25,0.0478,57
+Lutz,Nightlife,25,0.0478,57
+Warminster,Nail Salons,5,0.0478,7
+Ardmore,Bars,22,0.0478,35
+Malvern,Caterers,5,0.0478,5
+Warrington,Fast Food,5,0.0478,5
+Philadelphia,Boot Camps,12,0.0478,15
+Media,Bars,16,0.0478,25
+Tampa,Juice Bars & Smoothies,68,0.0478,111
+Palm Harbor,Pets,8,0.0478,4
+Wesley Chapel,Nightlife,21,0.0478,38
+Flourtown,Restaurants,15,0.0477,35
+Jamison,Restaurants,9,0.0477,22
+Conshohocken,American (New),9,0.0477,22
+Brandon,Pizza,20,0.0477,25
+Sun City Center,Restaurants,15,0.0477,17
+Dunedin,Cafes,8,0.0477,7
+Southampton,Sandwiches,12,0.0477,15
+Tampa,American (New),226,0.0476,553
+Chester Springs,Bars,5,0.0476,10
+Tampa,Tapas/Small Plates,13,0.0476,15
+King Of Prussia,Fast Food,8,0.0476,10
+Philadelphia,Auto Repair,152,0.0476,133
+Philadelphia,Vietnamese,97,0.0476,287
+Bala Cynwyd,Restaurants,44,0.0476,89
+Clearwater,Beauty & Spas,115,0.0476,109
+Ruskin,Breakfast & Brunch,8,0.0476,8
+Wayne,Beauty & Spas,12,0.0475,9
+Wesley Chapel,American (Traditional),28,0.0475,75
+Chalfont,Restaurants,31,0.0475,98
+Bensalem,American (Traditional),21,0.0475,33
+Clearwater,Coffee & Tea,37,0.0475,38
+Philadelphia,Breweries,39,0.0474,106
+Hatfield,Restaurants,25,0.0474,43
+Tampa,Asian Fusion,46,0.0474,66
+Palm Harbor,Vegan,5,0.0473,7
+Clearwater,Massage,9,0.0473,9
+Tampa,Tobacco Shops,35,0.0473,42
+Malvern,Event Planning & Services,8,0.0473,9
+Philadelphia,Nightlife,1293,0.0473,4845
+Largo,Burgers,10,0.0472,8
+Ambler,Pizza,6,0.0472,10
+Media,Specialty Food,6,0.0472,4
+St. Petersburg,Bakeries,11,0.0472,11
+Yardley,Restaurants,47,0.0472,144
+Ardmore,Active Life,6,0.0472,4
+Pottstown,Bars,13,0.0472,14
+Newtown,Pizza,8,0.0472,15
+Saint Petersburg,Beauty & Spas,88,0.0472,89
+Langhorne,Beauty & Spas,9,0.0471,8
+Bensalem,Real Estate,8,0.0471,6
+Brandon,General Dentistry,8,0.0471,7
+Kennett Square,Food,43,0.0471,86
+Philadelphia,Real Estate,161,0.047,185
+Conshohocken,Event Planning & Services,12,0.047,23
+Lutz,Chicken Wings,5,0.047,5
+Conshohocken,Burgers,6,0.047,6
+Brandon,Fast Food,37,0.0469,35
+Berwyn,Food,7,0.0469,8
+Conshohocken,Sandwiches,16,0.0469,22
+Philadelphia,Latin American,31,0.0469,28
+West Chester,American (Traditional),22,0.0469,21
+Downingtown,Food,18,0.0469,21
+Riverview,Restaurants,179,0.0469,646
+East Norriton,Restaurants,24,0.0469,40
+Glenside,Food,29,0.0469,58
+Conshohocken,Caterers,8,0.0468,19
+Langhorne,Auto Repair,9,0.0468,6
+Philadelphia,Karaoke,9,0.0468,6
+Tampa,Bridal,12,0.0468,12
+Jenkintown,Nightlife,8,0.0467,15
+Jenkintown,Bars,8,0.0467,15
+Ardmore,Restaurants,115,0.0467,468
+Dunedin,Coffee & Tea,22,0.0467,27
+Tampa,Nightlife,591,0.0467,1804
+Doylestown,Nightlife,18,0.0467,37
+Seminole,Automotive,11,0.0466,12
+Exton,Auto Repair,6,0.0466,4
+Tampa,Kids Activities,11,0.0466,8
+Clearwater,Vietnamese,5,0.0466,6
+Phoenixville,American (Traditional),15,0.0466,28
+Largo,Nail Salons,18,0.0466,19
+Dunedin,Sandwiches,18,0.0466,20
+Brandon,Cosmetic Dentists,10,0.0466,8
+St. Petersburg,Burgers,16,0.0465,13
+Lansdale,Bars,10,0.0465,18
+Havertown,Italian,14,0.0465,25
+Drexel Hill,Restaurants,62,0.0465,173
+Philadelphia,Museums,36,0.0465,78
+Lansdale,Nightlife,10,0.0465,18
+Tampa,Mortgage Brokers,7,0.0465,7
+Philadelphia,Sandwiches,689,0.0465,1120
+New Port Richey,Seafood,8,0.0465,6
+Tampa,Coffee Roasteries,14,0.0465,28
+King of Prussia,American (New),10,0.0465,15
+Philadelphia,Diners,47,0.0464,65
+Springfield,Bars,9,0.0464,6
+Pottstown,Nightlife,15,0.0464,15
+Norristown,Indian,7,0.0464,16
+Philadelphia,Bubble Tea,61,0.0464,166
+Springfield,Nightlife,9,0.0464,6
+Spring Hill,Desserts,5,0.0464,5
+Glenside,Pizza,11,0.0464,19
+Philadelphia,Pilates,22,0.0464,40
+Tampa,Tex-Mex,17,0.0463,12
+Philadelphia,Caterers,110,0.0463,101
+Media,Beauty & Spas,19,0.0463,20
+Media,Auto Repair,5,0.0463,6
+Jenkintown,Food,26,0.0463,43
+Tarpon Springs,American (New),10,0.0463,9
+Tampa,Sports Bars,77,0.0463,90
+Clearwater,Nightlife,119,0.0463,160
+Tampa,Comfort Food,9,0.0462,10
+Riverview,Bars,19,0.0462,28
+Tampa,Caribbean,35,0.0462,38
+Philadelphia,Ice Cream & Frozen Yogurt,123,0.0462,176
+Riverview,Nightlife,19,0.0462,28
+Philadelphia,Watches,6,0.0462,3
+Philadelphia,Pet Adoption,6,0.0461,4
+Warminster,Chinese,7,0.0461,14
+Malvern,American (New),9,0.0461,11
+Newtown,Bars,11,0.0461,17
+Tampa,Cuban,36,0.0461,38
+Spring City,Pizza,6,0.0461,6
+Tampa,Korean,15,0.0461,18
+Philadelphia,Bakeries,212,0.0461,337
+Newtown,Nightlife,11,0.0461,17
+Largo,Pet Services,5,0.0461,4
+Kennett Square,Beauty & Spas,6,0.0461,7
+Largo,Pet Sitting,5,0.0461,4
+Tampa,Beauty & Spas,713,0.046,1063
+Pinellas Park,Fast Food,20,0.046,22
+Pottstown,Mexican,6,0.046,5
+Newtown,Breakfast & Brunch,7,0.046,8
+Tampa,Hot Dogs,5,0.046,6
+Philadelphia,Bars,1132,0.0459,4148
+Southampton,Pizza,8,0.0459,9
+Tampa,Bars,528,0.0459,1582
+Abington,Restaurants,41,0.0459,56
+Philadelphia,Poke,12,0.0459,23
+Tampa,IV Hydration,5,0.0458,4
+Phoenixville,Local Services,8,0.0458,6
+Langhorne,Bars,10,0.0458,24
+Dunedin,Restaurants,167,0.0458,633
+Ruskin,American (Traditional),8,0.0458,7
+Conshohocken,Restaurants,95,0.0458,450
+Philadelphia,Candy Stores,8,0.0458,12
+Clearwater,Chicken Wings,16,0.0458,19
+Langhorne,Nightlife,10,0.0458,24
+Philadelphia,Restaurants,5774,0.0458,31156
+Downingtown,American (Traditional),14,0.0458,27
+Glenside,Bars,9,0.0458,20
+Pinellas Park,Bars,7,0.0458,11
+Pinellas Park,Nightlife,7,0.0458,11
+Newtown,Italian,10,0.0458,15
+Langhorne,American (New),5,0.0458,7
+Pinellas Park,Auto Repair,8,0.0458,6
+Philadelphia,Home Services,783,0.0457,1178
+West Chester,Sandwiches,39,0.0457,53
+Wayne,Food,41,0.0457,71
+North Wales,Sandwiches,5,0.0457,5
+Warrington,Beauty & Spas,9,0.0457,9
+Bryn Mawr,Bars,10,0.0457,20
+Collegeville,Restaurants,68,0.0456,214
+Safety Harbor,Bars,14,0.0456,17
+Brandon,Chicken Wings,11,0.0456,8
+Upper Darby,Chicken Wings,5,0.0456,5
+Philadelphia,Chinese,328,0.0456,604
+Willow Grove,Fast Food,5,0.0456,4
+Lutz,Mexican,11,0.0456,14
+Tampa,Auto Repair,106,0.0455,91
+Tampa,Endodontists,10,0.0455,6
+Paoli,Restaurants,43,0.0455,97
+Plymouth Meeting,Food,10,0.0455,14
+Philadelphia,Cambodian,7,0.0455,11
+Bensalem,Arts & Entertainment,5,0.0455,6
+Tampa,Pizza,179,0.0455,208
+Lutz,Pizza,15,0.0454,12
+Temple Terrace,Restaurants,43,0.0454,67
+Media,Mexican,8,0.0454,8
+Pinellas Park,Pizza,13,0.0454,12
+Ardmore,Hair Removal,6,0.0454,5
+Lutz,American (Traditional),20,0.0454,32
+Newtown,Health & Medical,18,0.0453,18
+Seminole,Home Services,6,0.0453,5
+Bryn Mawr,Nightlife,11,0.0453,21
+Ardmore,Chinese,7,0.0453,8
+Largo,Beauty & Spas,56,0.0453,53
+Upper Darby,Mexican,5,0.0453,4
+Downingtown,Nightlife,12,0.0453,23
+Downingtown,Bars,12,0.0453,23
+Malvern,Beauty & Spas,10,0.0453,11
+St. Petersburg,Cafes,9,0.0452,7
+Ridley Park,Food,6,0.0452,8
+Clearwater,Mexican,39,0.0452,39
+Wesley Chapel,Pizza,11,0.0452,12
+Tampa,Car Dealers,27,0.0452,32
+Drexel Hill,Sandwiches,6,0.0452,5
+Clearwater,Delis,7,0.0452,5
+Clearwater,Pizza,40,0.0452,43
+Tampa,Barbeque,44,0.0451,50
+Willow Grove,Beauty & Spas,6,0.0451,5
+Clearwater,Bars,110,0.0451,152
+Collegeville,American (Traditional),12,0.0451,16
+Clearwater,Sandwiches,70,0.0451,71
+Upper Darby,Pizza,11,0.0451,14
+Plymouth Meeting,American (Traditional),5,0.045,6
+Philadelphia,Barbeque,54,0.045,54
+Phoenixville,American (New),16,0.045,35
+Tampa,Caterers,41,0.045,38
+Philadelphia,Optometrists,21,0.045,12
+Seminole,Chinese,5,0.045,5
+Tampa,Pet Groomers,26,0.045,21
+Lansdale,Restaurants,120,0.045,417
+King of Prussia,Asian Fusion,5,0.0449,5
+Gulfport,American (Traditional),11,0.0449,18
+Broomall,Pizza,7,0.0448,14
+Drexel Hill,Italian,8,0.0448,12
+Bensalem,Home Services,11,0.0448,9
+Saint Petersburg,Chicken Wings,13,0.0448,8
+St. Petersburg,Desserts,11,0.0448,8
+Lutz,Beauty & Spas,35,0.0448,28
+Phoenixville,Italian,8,0.0447,6
+Abington,Thai,6,0.0447,5
+Philadelphia,Electricians,9,0.0447,8
+Brandon,Restaurants,296,0.0447,1094
+Clearwater,Steakhouses,11,0.0446,6
+Tampa,Southern,21,0.0446,32
+Warrington,Pizza,8,0.0446,9
+Dunedin,Italian,9,0.0446,7
+Souderton,Home Services,5,0.0446,3
+Largo,Heating & Air Conditioning/HVAC,6,0.0446,5
+Philadelphia,Southern,15,0.0446,15
+Clearwater,Pets,8,0.0446,5
+Philadelphia,Medical Spas,13,0.0446,10
+Glenside,Nightlife,10,0.0445,24
+Tampa,Ramen,8,0.0445,9
+Souderton,Pizza,6,0.0445,6
+Palm Harbor,Pizza,15,0.0445,12
+Holiday,Pizza,5,0.0445,6
+Tampa,Piercing,9,0.0445,6
+Tampa,Wine Bars,32,0.0445,44
+Lutz,Waxing,6,0.0445,5
+South Pasadena,Restaurants,13,0.0445,11
+Riverview,Bakeries,7,0.0444,6
+Drexel Hill,Pizza,13,0.0444,26
+Ambler,American (Traditional),8,0.0444,13
+Downingtown,Restaurants,85,0.0444,293
+Bryn Mawr,American (Traditional),6,0.0444,9
+Huntingdon Valley,Restaurants,35,0.0444,65
+Palm Harbor,Desserts,8,0.0444,7
+Kennett Square,Restaurants,77,0.0444,360
+St Petersburg,Food,15,0.0444,13
+Hernando Beach,Restaurants,10,0.0443,20
+Warminster,Italian,6,0.0443,5
+Tampa,Salad,86,0.0443,91
+Avondale,Food,8,0.0443,8
+Philadelphia,Cafes,165,0.0443,202
+Land O' Lakes,Mexican,5,0.0443,4
+Philadelphia,Sports Bars,77,0.0443,75
+Clearwater,Burgers,48,0.0442,54
+Tampa,Pet Services,51,0.0442,55
+Philadelphia,Russian,10,0.0442,21
+Wayne,Nightlife,15,0.0441,40
+Largo,Veterinarians,7,0.0441,5
+Levittown,Nail Salons,7,0.0441,6
+Tampa,Mattresses,10,0.0441,7
+Pinellas Park,Restaurants,139,0.0441,377
+New Port Richey,Japanese,6,0.0441,6
+Wayne,Bars,15,0.0441,40
+Dunedin,Breakfast & Brunch,25,0.044,43
+Philadelphia,French,46,0.044,69
+Berwyn,Restaurants,36,0.044,76
+Willow Grove,Food,19,0.044,24
+Philadelphia,Oral Surgeons,10,0.044,7
+New Port Richey,Salad,7,0.044,5
+Willow Grove,American (Traditional),5,0.0439,8
+Tampa,Plumbing,16,0.0439,11
+Exton,Hair Removal,6,0.0439,5
+Ambler,Beauty & Spas,9,0.0439,9
+Newtown,American (New),7,0.0438,7
+St Petersburg,Pizza,5,0.0438,5
+Pottstown,Beauty & Spas,11,0.0438,17
+Malvern,Nail Salons,5,0.0438,7
+Springfield,Italian,5,0.0438,6
+Tampa,Veterinarians,15,0.0438,12
+Tampa,Tapas Bars,9,0.0438,7
+Philadelphia,Meat Shops,22,0.0438,22
+Seminole,Nightlife,6,0.0438,7
+Tampa,Hair Extensions,25,0.0438,23
+Seminole,Bars,6,0.0438,7
+Pinellas Park,Mexican,6,0.0438,7
+Bryn Mawr,Restaurants,78,0.0438,259
+Doylestown,American (Traditional),18,0.0438,32
+Largo,Auto Repair,8,0.0437,5
+Philadelphia,Cantonese,5,0.0437,5
+Tampa,Tattoo,12,0.0437,8
+Philadelphia,Juice Bars & Smoothies,74,0.0437,88
+Warrington,American (Traditional),12,0.0437,29
+Newtown Square,Restaurants,48,0.0436,119
+Media,Chinese,8,0.0436,6
+Norristown,Pizza,18,0.0436,28
+Philadelphia,Office Cleaning,7,0.0435,7
+Conshohocken,American (Traditional),11,0.0435,20
+Tampa,American (Traditional),289,0.0435,384
+St. Pete Beach,American (New),10,0.0435,15
+Philadelphia,Mobile Phones,15,0.0435,14
+Safety Harbor,Nightlife,16,0.0435,24
+Ardmore,Beauty & Spas,17,0.0435,16
+Philadelphia,Chocolatiers & Shops,12,0.0434,15
+Philadelphia,Apartments,88,0.0434,105
+Glen Mills,Pizza,10,0.0434,9
+Dunedin,Seafood,13,0.0434,21
+Philadelphia,Irish Pub,6,0.0434,10
+Doylestown,Italian,13,0.0434,15
+Tarpon Springs,Restaurants,128,0.0433,359
+Philadelphia,Tea Rooms,6,0.0433,4
+Brandon,American (Traditional),38,0.0433,64
+Philadelphia,Motorcycle Repair,6,0.0432,7
+Exton,American (New),15,0.0432,23
+Bristol,Pizza,8,0.0432,7
+Philadelphia,Caribbean,35,0.0432,27
+St. Petersburg,Sandwiches,19,0.0432,13
+King of Prussia,Breakfast & Brunch,10,0.0432,9
+Springfield,Nail Salons,9,0.0432,11
+Wayne,Restaurants,113,0.0431,401
+Lutz,Chinese,5,0.0431,4
+Tarpon Springs,Pizza,5,0.0431,8
+Philadelphia,Vegetarian,101,0.0431,187
+Wesley Chapel,Nail Salons,13,0.0431,15
+Collegeville,Pizza,12,0.043,11
+Lutz,Breakfast & Brunch,11,0.043,12
+King of Prussia,Hotels & Travel,9,0.043,7
+King of Prussia,Hotels,9,0.043,7
+Buckingham,Restaurants,6,0.043,7
+Tampa,Poke,21,0.043,26
+St. Petersburg,Restaurants,327,0.043,631
+Clearwater,Restaurants,594,0.043,1879
+Palm Harbor,American (New),20,0.043,40
+New Port Richey,American (New),18,0.043,21
+King of Prussia,Coffee & Tea,9,0.0429,6
+Saint Petersburg,Event Planning & Services,22,0.0429,19
+Fort Washington,Food,5,0.0429,4
+Spring Hill,Greek,6,0.0429,6
+Paoli,Sandwiches,6,0.0429,5
+Blue Bell,Sandwiches,8,0.0429,8
+Hudson,Breakfast & Brunch,7,0.0429,4
+Ardmore,American (New),14,0.0429,15
+Philadelphia,American (New),552,0.0428,1362
+Largo,Breakfast & Brunch,27,0.0428,39
+Doylestown,American (New),15,0.0428,23
+Philadelphia,Handyman,11,0.0427,8
+Palm Harbor,Sushi Bars,10,0.0427,13
+Lansdale,Sandwiches,14,0.0427,13
+Philadelphia,Parking,10,0.0427,6
+Philadelphia,Pet Stores,33,0.0426,33
+Wayne,Sandwiches,17,0.0426,23
+Tarpon Springs,Bars,18,0.0426,25
+Tarpon Springs,Nightlife,22,0.0426,28
+Blue Bell,Beauty & Spas,6,0.0426,4
+Wesley Chapel,Beauty & Spas,33,0.0426,34
+Philadelphia,Thai,53,0.0426,70
+Spring House,Restaurants,6,0.0425,9
+Saint Petersburg,Lounges,7,0.0425,7
+Lafayette Hill,Bars,7,0.0425,14
+Lafayette Hill,Nightlife,7,0.0425,14
+Philadelphia,Spanish,10,0.0425,9
+Springfield,Pizza,9,0.0425,10
+Philadelphia,Specialty Schools,29,0.0425,21
+West Chester,Pizza,47,0.0425,81
+Philadelphia,Desserts,184,0.0424,305
+Ardmore,Salad,10,0.0424,6
+Brandon,Seafood,17,0.0424,29
+Brandon,Bars,33,0.0424,66
+Safety Harbor,Food,14,0.0424,16
+Brandon,Nightlife,33,0.0424,66
+West Chester,Restaurants,268,0.0423,1262
+Zephyrhills,American (Traditional),5,0.0423,8
+Brandon,Mexican,15,0.0423,16
+Riverview,Nail Salons,21,0.0423,23
+Philadelphia,Nurseries & Gardening,11,0.0423,8
+Tampa,Cocktail Bars,72,0.0423,145
+Tampa,Breakfast & Brunch,211,0.0423,284
+Largo,Restaurants,268,0.0423,873
+Yardley,Hair Salons,6,0.0422,5
+Willow Grove,Bars,6,0.0422,9
+Willow Grove,Nightlife,6,0.0422,9
+Feasterville-Trevose,Restaurants,11,0.0421,11
+Malvern,Restaurants,93,0.0421,314
+West Chester,Beauty & Spas,37,0.0421,42
+Wayne,Cafes,6,0.0421,4
+North Wales,Restaurants,75,0.0421,252
+Fort Washington,Restaurants,8,0.042,12
+Exton,American (Traditional),24,0.042,37
+Philadelphia,Greek,13,0.042,14
+Tarpon Springs,Breakfast & Brunch,12,0.0419,14
+Largo,Sushi Bars,7,0.0419,8
+Fairless Hills,Beauty & Spas,7,0.0419,8
+King of Prussia,American (Traditional),15,0.0419,27
+Tampa,Heating & Air Conditioning/HVAC,10,0.0419,7
+Springfield,Seafood,6,0.0419,3
+Willow Grove,Event Planning & Services,5,0.0419,4
+New Port Richey,Chicken Wings,5,0.0419,4
+Malvern,Nightlife,14,0.0418,28
+West Chester,Asian Fusion,6,0.0418,10
+Tampa,Pool & Hot Tub Service,6,0.0418,3
+Philadelphia,Acupuncture,19,0.0418,23
+Malvern,Bars,14,0.0418,28
+Tampa,Property Management,12,0.0418,10
+Tampa,Hot Tub & Pool,6,0.0418,3
+Phoenixville,Beauty & Spas,19,0.0418,23
+King of Prussia,Nightlife,20,0.0417,45
+East Norriton,Nightlife,5,0.0417,5
+East Norriton,Bars,5,0.0417,5
+Brandon,Sandwiches,31,0.0417,35
+Phoenixville,Breakfast & Brunch,10,0.0417,15
+Gulfport,Food,17,0.0417,22
+Tampa,Movers,16,0.0417,16
+Ardmore,Mexican,5,0.0417,5
+Glenside,Restaurants,50,0.0417,173
+Philadelphia,Traditional Chinese Medicine,5,0.0417,6
+Valrico,Nightlife,7,0.0417,6
+Valrico,Bars,7,0.0417,6
+Palm Harbor,Pet Services,6,0.0416,3
+Spring Hill,Salad,6,0.0416,5
+Palm Harbor,Seafood,12,0.0416,14
+Brandon,Tex-Mex,5,0.0416,4
+Philadelphia,Salad,128,0.0416,155
+Saint Petersburg,Nightlife,124,0.0416,260
+Bensalem,Indian,11,0.0416,15
+Philadelphia,Breakfast & Brunch,472,0.0416,863
+Elkins Park,Korean,5,0.0416,4
+Tampa,Japanese,64,0.0416,92
+Lansdowne,Pizza,5,0.0416,7
+West Chester,Ice Cream & Frozen Yogurt,5,0.0416,4
+Downingtown,Chicken Wings,7,0.0415,6
+Phoenixville,Nail Salons,10,0.0415,12
+Philadelphia,Middle Eastern,55,0.0415,72
+Ambler,Restaurants,74,0.0415,266
+Philadelphia,Mexican,194,0.0415,257
+Philadelphia,Hair Salons,273,0.0415,293
+Tampa,Sushi Bars,75,0.0415,117
+Downingtown,Pizza,15,0.0414,18
+Saint Petersburg,Bars,120,0.0414,250
+Philadelphia,Post Offices,6,0.0414,4
+Tampa,Event Planning & Services,318,0.0414,365
+Pottstown,Italian,10,0.0413,11
+Plant City,Nightlife,6,0.0413,6
+Philadelphia,Building Supplies,9,0.0413,10
+Seminole,American (New),6,0.0413,6
+St Petersburg,Home Services,16,0.0413,12
+Tampa,Greek,6,0.0413,3
+Philadelphia,Cajun/Creole,8,0.0413,8
+Oldsmar,Beauty & Spas,7,0.0413,6
+Plant City,Bars,6,0.0413,6
+Dunedin,Burgers,6,0.0412,4
+West Chester,Cafes,6,0.0412,5
+Safety Harbor,Restaurants,33,0.0412,108
+Saint Petersburg,Auto Repair,16,0.0412,13
+Philadelphia,Japanese,152,0.0412,258
+Brandon,Veterinarians,6,0.0412,3
+Perkasie,American (New),5,0.0412,7
+Chester Springs,Restaurants,20,0.0411,48
+Spring Hill,Pizza,15,0.0411,14
+Tampa,Vegan,31,0.0411,50
+Saint Petersburg,Specialty Food,14,0.0411,8
+King of Prussia,Bars,18,0.0411,44
+St. Petersburg,Cocktail Bars,6,0.0411,8
+Tampa,Head Shops,5,0.0411,3
+Lutz,Hair Removal,7,0.041,6
+King of Prussia,Event Planning & Services,11,0.041,9
+Philadelphia,Event Planning & Services,447,0.041,464
+Philadelphia,Gluten-Free,25,0.041,21
+Brandon,Cafes,6,0.041,3
+Exton,Bars,17,0.041,44
+West Chester,Chinese,8,0.0409,9
+Brandon,Breakfast & Brunch,15,0.0409,11
+Gibsonton,Restaurants,9,0.0409,8
+Wynnewood,Restaurants,20,0.0409,34
+Ambler,Sandwiches,10,0.0409,12
+Dunedin,American (New),23,0.0409,43
+Seminole,Breakfast & Brunch,9,0.0409,9
+Philadelphia,Vegan,92,0.0409,260
+Downingtown,Sandwiches,7,0.0408,8
+Media,American (New),10,0.0408,20
+Collegeville,American (New),10,0.0408,15
+Exton,Restaurants,120,0.0408,394
+Abington,Pizza,5,0.0407,6
+Largo,Chinese,9,0.0407,7
+Warrington,Restaurants,48,0.0407,110
+Willow Grove,Restaurants,61,0.0407,170
+Montgomeryville,Restaurants,8,0.0407,8
+Palm Harbor,Breakfast & Brunch,10,0.0407,10
+Philadelphia,Asian Fusion,102,0.0407,113
+Saint Petersburg,American (Traditional),34,0.0406,45
+Philadelphia,Property Management,14,0.0406,11
+Pinellas Park,American (Traditional),15,0.0406,22
+Largo,American (New),11,0.0406,21
+Clearwater,Caterers,8,0.0406,5
+Newtown Square,American (Traditional),11,0.0406,21
+St. Petersburg,Automotive,17,0.0405,12
+Seminole,Pizza,5,0.0405,7
+Tarpon Springs,Desserts,5,0.0405,5
+West Chester,Italian,23,0.0405,33
+Saint Petersburg,American (New),23,0.0405,39
+Tampa,Steakhouses,40,0.0405,71
+Philadelphia,Wraps,9,0.0404,6
+Philadelphia,Computers,8,0.0404,6
+West Chester,Hair Salons,7,0.0404,5
+Blue Bell,Korean,8,0.0404,12
+Jenkintown,Restaurants,63,0.0404,179
+West Chester,Mexican,11,0.0404,16
+Skippack,Restaurants,21,0.0403,52
+Largo,Sports Bars,17,0.0403,19
+Port Richey,American (Traditional),19,0.0403,18
+Philadelphia,Mobile Phone Repair,12,0.0403,9
+New Hope,Arts & Entertainment,12,0.0403,9
+St. Petersburg,Tapas/Small Plates,5,0.0403,3
+Wayne,American (Traditional),19,0.0403,39
+Malvern,Italian,8,0.0403,7
+Clearwater,American (Traditional),87,0.0403,138
+Lansdale,Italian,11,0.0402,7
+Philadelphia,Bagels,26,0.0402,21
+Jenkintown,American (Traditional),17,0.0402,37
+Perkasie,American (Traditional),7,0.0402,15
+Hernando Beach,Seafood,5,0.0402,11
+Gulfport,Bars,10,0.0402,14
+Tampa,Seafood,119,0.0402,207
+Exton,Nightlife,19,0.0402,46
+Philadelphia,American (Traditional),439,0.0402,694
+Riverview,Auto Repair,9,0.0401,11
+Lansdale,Barbeque,6,0.0401,5
+Philadelphia,Ramen,16,0.0401,26
+Tarpon Springs,Salad,6,0.0401,8
+Philadelphia,Appliances,14,0.0401,12
+Philadelphia,Sewing & Alterations,21,0.0401,16
+Philadelphia,Beauty & Spas,1041,0.0401,1667
+Philadelphia,Nail Salons,270,0.0401,360
+Glenside,Sandwiches,8,0.04,8
+Philadelphia,Pet Services,119,0.0399,146
+Largo,Thai,5,0.0399,5
+New Hope,Pizza,6,0.0398,5
+Tampa,Diners,26,0.0398,24
+Newtown Square,Pizza,10,0.0397,20
+Pinellas Park,Italian,6,0.0397,5
+Wayne,American (New),12,0.0397,22
+Horsham,Restaurants,43,0.0397,82
+Seminole,Auto Repair,5,0.0397,6
+North Wales,Breakfast & Brunch,7,0.0397,12
+Saint Petersburg,Mexican,17,0.0397,14
+Lansdale,Breakfast & Brunch,8,0.0397,13
+Saint Petersburg,Skin Care,13,0.0397,10
+Clearwater,Pet Services,6,0.0397,3
+Dunedin,Mexican,11,0.0397,13
+Ambler,Food,33,0.0396,60
+Saint Petersburg,Pizza,20,0.0396,18
+Philadelphia,Pets,181,0.0396,246
+Bryn Mawr,American (New),5,0.0396,5
+Malvern,Breakfast & Brunch,7,0.0396,10
+Clearwater,Day Spas,12,0.0396,8
+Phoenixville,Pizza,14,0.0396,26
+Malvern,American (Traditional),14,0.0396,25
+Spring Hill,Cafes,5,0.0396,3
+St. Petersburg,American (New),17,0.0396,21
+Philadelphia,Seafood,203,0.0395,280
+West Chester,American (New),27,0.0395,67
+Palm Harbor,Waxing,8,0.0395,7
+Philadelphia,Massage Therapy,32,0.0394,29
+Riverview,Japanese,8,0.0394,7
+Philadelphia,Venues & Event Spaces,95,0.0394,86
+Tampa,Adult Entertainment,7,0.0394,17
+Philadelphia,Iberian,5,0.0394,7
+New Port Richey,Auto Repair,12,0.0394,8
+Tampa,Italian,102,0.0394,125
+Philadelphia,Chicken Shop,21,0.0394,16
+Largo,Pizza,24,0.0393,39
+Saint Petersburg,Restaurants,421,0.0393,1120
+Largo,American (Traditional),32,0.0393,40
+Dunedin,Desserts,8,0.0393,10
+Bensalem,Nightlife,14,0.0393,14
+St. Petersburg,Beauty & Spas,47,0.0393,39
+Lutz,Nail Salons,13,0.0393,10
+Largo,Nightlife,38,0.0392,52
+Tampa,Tacos,35,0.0392,23
+Wayne,Pizza,15,0.0392,34
+Radnor,Restaurants,8,0.0392,10
+New Port Richey,Pizza,18,0.0392,22
+Clearwater,Chicken Shop,5,0.0392,4
+Largo,Italian,13,0.0392,15
+Brandon,American (New),16,0.0392,14
+Paoli,Nail Salons,5,0.0392,6
+Largo,Bars,37,0.0391,51
+Hatboro,Beauty & Spas,12,0.0391,19
+Tampa,Mediterranean,33,0.0391,32
+Philadelphia,Motorcycle Dealers,8,0.0391,10
+Riverview,Asian Fusion,6,0.0391,11
+Huntingdon Valley,Food,7,0.0391,7
+Conshohocken,Breakfast & Brunch,10,0.039,13
+Blue Bell,American (Traditional),7,0.039,10
+New Hope,Food,42,0.039,60
+Tampa,Oil Change Stations,24,0.039,19
+Philadelphia,Home Cleaning,29,0.039,25
+Philadelphia,Halal,36,0.0389,43
+Media,Nail Salons,5,0.0389,4
+Tampa,Halal,22,0.0389,33
+Wayne,Italian,14,0.0389,22
+Gulfport,Nightlife,13,0.0389,17
+Tampa,Party & Event Planning,6,0.0388,3
+Tampa,Auto Detailing,7,0.0388,5
+Temple Terrace,Health & Medical,5,0.0388,4
+Clearwater,Barbeque,9,0.0388,6
+Philadelphia,Car Dealers,6,0.0388,4
+Collegeville,Italian,6,0.0387,4
+St. Petersburg,American (Traditional),38,0.0387,56
+Philadelphia,Auto Glass Services,6,0.0387,3
+Saint Petersburg,Gluten-Free,7,0.0386,7
+Riverview,Beauty & Spas,33,0.0386,36
+Bensalem,Bars,13,0.0386,12
+Clearwater,Juice Bars & Smoothies,7,0.0385,7
+Philadelphia,Tanning,12,0.0385,10
+Tampa,Pet Sitting,15,0.0385,15
+Tampa,Vegetarian,30,0.0385,33
+Tampa,Reflexology,5,0.0385,5
+Malvern,Sandwiches,7,0.0385,5
+Doylestown,Mexican,6,0.0385,5
+Glen Mills,Restaurants,63,0.0384,175
+Saint Petersburg,Desserts,9,0.0384,9
+Philadelphia,Printing Services,11,0.0384,7
+Media,Italian,6,0.0384,11
+Philadelphia,Irish,16,0.0384,22
+East Norriton,Hair Salons,5,0.0384,4
+West Chester,Event Planning & Services,14,0.0384,11
+Lansdale,Sushi Bars,7,0.0384,12
+North Wales,Burgers,8,0.0384,13
+Saint Petersburg,Burgers,11,0.0384,9
+Largo,Event Planning & Services,6,0.0384,3
+Lithia,American (Traditional),6,0.0383,8
+West Chester,Breakfast & Brunch,18,0.0383,28
+Paoli,Chinese,5,0.0383,7
+King Of Prussia,Restaurants,30,0.0382,43
+Kennett Square,American (Traditional),8,0.0382,10
+Bryn Mawr,Beauty & Spas,11,0.0382,14
+Philadelphia,Coffee Roasteries,22,0.0382,26
+Tarpon Springs,American (Traditional),9,0.0382,10
+Clearwater,Hotels & Travel,47,0.0382,40
+Largo,Bakeries,9,0.0382,10
+Saint Petersburg,Juice Bars & Smoothies,6,0.0381,8
+Brandon,Sports Bars,10,0.0381,6
+Exton,Beauty & Spas,22,0.0381,22
+Springfield,American (Traditional),7,0.0381,10
+Brandon,Diners,8,0.0381,5
+Philadelphia,Tours,9,0.0381,11
+Philadelphia,Brazilian,5,0.038,8
+Bryn Mawr,Italian,5,0.038,6
+Saint Petersburg,Pubs,10,0.038,10
+Havertown,Beauty & Spas,13,0.038,15
+Philadelphia,Lingerie,5,0.038,4
+Jenkintown,American (New),6,0.0379,5
+King of Prussia,Pizza,8,0.0379,7
+Philadelphia,Sports Clubs,7,0.0379,8
+Lansdale,Asian Fusion,5,0.0379,4
+Philadelphia,Sushi Bars,104,0.0379,152
+Philadelphia,Mediterranean,79,0.0378,84
+Bryn Mawr,Fast Food,5,0.0378,5
+Gulfport,Restaurants,40,0.0378,90
+St. Petersburg,Breakfast & Brunch,26,0.0378,30
+Lansdale,American (Traditional),8,0.0378,9
+St Petersburg,American (Traditional),7,0.0378,5
+Lithia,Nightlife,6,0.0378,7
+Lithia,Bars,6,0.0378,7
+Saint Petersburg,Ice Cream & Frozen Yogurt,9,0.0378,8
+Philadelphia,Car Rental,11,0.0378,9
+Brandon,Nail Salons,21,0.0377,13
+Saint Petersburg,Coffee & Tea,45,0.0377,73
+Palm Harbor,Italian,12,0.0377,15
+St. Petersburg,Skin Care,10,0.0377,6
+Clearwater,Greek,12,0.0377,9
+Dunedin,Chinese,6,0.0377,5
+Tampa,Venues & Event Spaces,67,0.0377,60
+North Wales,Beauty & Spas,16,0.0377,18
+Southampton,Italian,5,0.0376,4
+Wesley Chapel,Mexican,5,0.0376,4
+Tampa,Appliances & Repair,6,0.0376,3
+Philadelphia,Tires,46,0.0376,36
+Philadelphia,Pet Groomers,29,0.0376,27
+Kennett Square,Bars,5,0.0376,9
+Philadelphia,Buffets,20,0.0375,18
+Plant City,American (Traditional),10,0.0375,14
+Philadelphia,Cheesesteaks,90,0.0375,120
+Ardmore,Automotive,8,0.0375,7
+Philadelphia,Wine Bars,53,0.0374,56
+Lutz,Auto Repair,5,0.0374,5
+West Chester,Nightlife,32,0.0374,60
+Belleair Bluffs,Coffee & Tea,5,0.0373,4
+North Wales,American (Traditional),11,0.0373,33
+Lansdale,Japanese,5,0.0373,11
+Clearwater,Sports Bars,24,0.0373,29
+Philadelphia,Seafood Markets,8,0.0372,5
+Brandon,Food Trucks,5,0.0372,5
+Philadelphia,Pakistani,14,0.0372,17
+Perkasie,Pizza,6,0.0372,6
+Largo,Salad,6,0.0372,4
+West Chester,Bakeries,13,0.0372,13
+Tampa,Auto Parts & Supplies,37,0.0371,26
+Aston,Active Life,5,0.0371,3
+New Port Richey,Italian,11,0.0371,12
+Philadelphia,Heating & Air Conditioning/HVAC,12,0.0371,13
+Largo,Cafes,7,0.0371,9
+Willow Grove,Pizza,8,0.0371,14
+Newtown Square,Italian,8,0.037,13
+Saint Petersburg,Wine Bars,11,0.037,10
+Philadelphia,Italian,324,0.037,529
+Philadelphia,Beer Bar,41,0.037,37
+Tampa,Indian,42,0.037,95
+Malvern,Pizza,12,0.037,11
+West Chester,Bars,29,0.037,53
+Tarpon Springs,Coffee & Tea,7,0.0369,9
+Bala Cynwyd,Beauty & Spas,6,0.0369,5
+Riverview,Active Life,8,0.0369,4
+Philadelphia,Hospitals,15,0.0369,10
+Largo,Diners,12,0.0369,11
+North Wales,Bars,14,0.0369,37
+North Wales,Nightlife,14,0.0369,37
+Philadelphia,Barbers,61,0.0368,63
+Tampa,Gelato,9,0.0368,6
+Wesley Chapel,Sports Bars,6,0.0368,4
+Horsham,Beauty & Spas,6,0.0367,5
+Exton,Hair Salons,5,0.0367,4
+Tampa,Middle Eastern,18,0.0367,20
+Newtown Square,Nightlife,10,0.0367,23
+King of Prussia,Seafood,6,0.0366,12
+Philadelphia,Soul Food,53,0.0366,69
+Tampa,Medical Spas,19,0.0366,12
+St Petersburg,Restaurants,69,0.0366,82
+Saint Petersburg,Japanese,8,0.0365,7
+Kennett Square,American (New),15,0.0365,22
+Wesley Chapel,Event Planning & Services,8,0.0365,6
+Philadelphia,Cosmetic Dentists,21,0.0365,15
+Plymouth Meeting,Restaurants,26,0.0365,53
+Philadelphia,Reflexology,10,0.0364,10
+Tampa,Skin Care,84,0.0364,77
+Port Richey,Seafood,11,0.0364,10
+Saint Petersburg,Body Shops,5,0.0364,4
+Pinellas Park,Breakfast & Brunch,8,0.0363,6
+Malvern,Pets,5,0.0363,5
+Tampa,Pool Cleaners,7,0.0363,4
+Saint Petersburg,Bakeries,12,0.0362,15
+Tampa,Massage,52,0.0362,39
+Philadelphia,Endodontists,6,0.0362,4
+Tampa,Acai Bowls,23,0.0361,27
+Tampa,Day Spas,46,0.0361,32
+Saint Petersburg,Nail Salons,28,0.0361,21
+Tampa,Thai,31,0.0361,33
+Kennett Square,Mexican,6,0.0361,8
+Brandon,Tires,7,0.036,4
+Philadelphia,Towing,10,0.036,7
+Perkasie,Nightlife,5,0.036,6
+North Wales,American (New),9,0.036,15
+Ambler,American (New),9,0.036,10
+Kennett Square,Nightlife,7,0.0359,16
+Clearwater,American (New),42,0.0359,51
+Newtown Square,Bars,9,0.0358,20
+Glenside,Italian,9,0.0358,13
+Philadelphia,Tapas/Small Plates,20,0.0358,18
+Saint Petersburg,Asian Fusion,8,0.0358,11
+Philadelphia,Indian,68,0.0358,97
+Saint Petersburg,Breakfast & Brunch,35,0.0357,40
+Clearwater,Ice Cream & Frozen Yogurt,10,0.0357,10
+Bala Cynwyd,Automotive,7,0.0357,4
+Ruskin,Nightlife,7,0.0357,6
+St. Petersburg,Seafood,14,0.0357,13
+Philadelphia,Soup,21,0.0357,18
+Ruskin,Bars,7,0.0357,6
+Saint Petersburg,Vegetarian,6,0.0356,6
+Philadelphia,Food Delivery Services,25,0.0356,18
+West Chester,Desserts,10,0.0356,12
+Willow Grove,Sushi Bars,5,0.0356,7
+Chadds Ford,Restaurants,22,0.0356,38
+Belleair Bluffs,Restaurants,10,0.0355,19
+St Petersburg,Sandwiches,8,0.0355,5
+Tampa,Eyelash Service,34,0.0355,30
+Saint Petersburg,Sushi Bars,15,0.0355,22
+Largo,Pets,12,0.0354,8
+Warminster,Home Services,6,0.0354,3
+Quakertown,Restaurants,23,0.0354,69
+Philadelphia,Plumbing,27,0.0354,23
+Bryn Mawr,Nail Salons,5,0.0353,4
+Wayne,Breakfast & Brunch,8,0.0353,13
+Saint Petersburg,Vegan,8,0.0353,19
+Pottstown,Nail Salons,8,0.0352,10
+Exton,Mexican,7,0.0352,6
+Philadelphia,Skin Care,69,0.0352,67
+Philadelphia,Dog Walkers,31,0.0352,26
+Indian Rocks Beach,Bars,7,0.0352,20
+North Redington Beach,Restaurants,5,0.0351,5
+West Chester,Nail Salons,13,0.0351,19
+Tampa,Puerto Rican,9,0.0351,10
+Clearwater,Indian,5,0.0351,6
+Philadelphia,Colleges & Universities,8,0.0351,5
+Newtown Square,Beauty & Spas,8,0.0351,7
+Horsham,Nightlife,6,0.035,8
+Horsham,Bars,6,0.035,8
+Tampa,Food Delivery Services,8,0.035,4
+Saint Petersburg,Delis,9,0.035,8
+Philadelphia,Cocktail Bars,122,0.0349,196
+Clearwater,Nail Salons,21,0.0349,15
+Jenkintown,Breakfast & Brunch,6,0.0349,6
+East Norriton,Beauty & Spas,6,0.0348,5
+Safety Harbor,American (New),5,0.0348,3
+West Chester,Sushi Bars,10,0.0348,15
+Largo,Chicken Wings,7,0.0347,4
+Seminole,Salad,6,0.0346,12
+Philadelphia,Jazz & Blues,7,0.0345,4
+Brandon,Japanese,7,0.0345,8
+Safety Harbor,Beauty & Spas,5,0.0344,4
+Exton,Pizza,14,0.0344,18
+Brandon,Steakhouses,7,0.0344,5
+Saint Petersburg,Donuts,8,0.0344,6
+Clearwater,Event Planning & Services,56,0.0343,41
+Tampa,Transportation,21,0.0343,17
+Downingtown,Burgers,7,0.0343,6
+Tampa,Limos,7,0.0342,5
+Saint Petersburg,Chinese,9,0.0342,5
+Philadelphia,Tattoo,16,0.0342,15
+Kennett Square,Breakfast & Brunch,6,0.0342,7
+King Of Prussia,American (Traditional),5,0.0342,4
+Lansdale,Chinese,8,0.0342,6
+Brandon,Auto Repair,11,0.0341,6
+Glen Mills,Beauty & Spas,16,0.0341,17
+Exton,Breakfast & Brunch,10,0.0341,9
+Largo,Mexican,14,0.0341,12
+Tampa,Nail Salons,123,0.0341,129
+Port Richey,Soup,5,0.0341,4
+Hatboro,Nail Salons,8,0.034,16
+King of Prussia,Active Life,6,0.034,4
+Riverview,Oil Change Stations,8,0.0339,10
+Riverview,Tires,8,0.0339,10
+Glen Mills,American (New),8,0.0339,18
+Ardmore,Auto Repair,5,0.0339,4
+Kennett Square,Pizza,8,0.0338,8
+Jenkintown,Pizza,6,0.0337,5
+West Chester,Japanese,9,0.0337,13
+Brandon,Sushi Bars,9,0.0337,11
+Clearwater,Breakfast & Brunch,52,0.0337,68
+Philadelphia,Watch Repair,6,0.0337,3
+Indian Rocks Beach,Nightlife,9,0.0337,22
+Philadelphia,Portuguese,6,0.0336,8
+Indian Rocks Beach,American (New),6,0.0336,6
+Brandon,Thai,7,0.0336,7
+Tampa,Escape Games,8,0.0336,10
+Philadelphia,Oil Change Stations,45,0.0335,32
+Glen Mills,Italian,9,0.0335,15
+Clearwater,Italian,19,0.0335,15
+Tarpon Springs,Seafood,19,0.0335,28
+West Chester,Seafood,9,0.0335,17
+Indian Rocks Beach,Sandwiches,7,0.0335,12
+Philadelphia,Falafel,6,0.0335,5
+Saint Petersburg,Italian,12,0.0334,15
+Largo,Hair Removal,9,0.0334,6
+Largo,Waxing,9,0.0334,6
+Blue Bell,Event Planning & Services,6,0.0334,7
+Clearwater Beach,Shopping,5,0.0334,3
+Philadelphia,Makeup Artists,19,0.0333,15
+Tampa,Makeup Artists,12,0.0333,13
+Philadelphia,Comfort Food,26,0.0332,22
+Conshohocken,Nail Salons,5,0.0332,7
+Pinellas Park,Sushi Bars,5,0.0332,7
+Port Richey,Asian Fusion,5,0.0331,5
+Clearwater,Salad,28,0.0331,31
+Clearwater,Japanese,7,0.0331,4
+Tampa,Body Shops,18,0.033,13
+Philadelphia,Cupcakes,6,0.0328,6
+King Of Prussia,Bars,7,0.0328,7
+King Of Prussia,Nightlife,7,0.0328,7
+Philadelphia,Szechuan,7,0.0328,5
+North Wales,Nail Salons,5,0.0328,7
+Southampton,Shopping,8,0.0327,5
+West Chester,Pubs,9,0.0327,7
+Philadelphia,Nutritionists,8,0.0327,4
+Blue Bell,Pizza,8,0.0326,10
+Wayne,Bakeries,5,0.0326,4
+Malvern,Cafes,5,0.0325,9
+Philadelphia,Day Spas,53,0.0325,53
+Dunedin,Bakeries,7,0.0325,7
+Kenneth City,Restaurants,6,0.0324,5
+Riverview,Thai,5,0.0324,5
+Maple Glen,Restaurants,7,0.0323,6
+Clearwater,Cafes,23,0.0323,23
+Indian Rocks Beach,Seafood,12,0.0323,38
+Palm Harbor,Nail Salons,8,0.0322,7
+Tampa,Wraps,6,0.0321,4
+Philadelphia,Auto Detailing,6,0.0321,3
+Glen Mills,American (Traditional),10,0.0321,15
+Tierra Verde,Restaurants,13,0.0321,28
+Philadelphia,Hotels & Travel,177,0.032,229
+Brandon,Hair Removal,8,0.032,7
+Philadelphia,Body Shops,19,0.0319,14
+Philadelphia,Pet Sitting,45,0.0319,42
+St. Petersburg,Caribbean,7,0.0319,8
+Philadelphia,Airport Lounges,8,0.0319,9
+Conshohocken,Beauty & Spas,10,0.0318,12
+Brandon,Oil Change Stations,7,0.0318,4
+West Chester,Salad,7,0.0318,6
+St. Petersburg,Asian Fusion,6,0.0318,3
+Saint Petersburg,Hair Removal,10,0.0317,5
+Tampa,Hair Removal,93,0.0317,89
+Madeira Beach,Hotels & Travel,7,0.0317,6
+Philadelphia,Bridal,18,0.0317,17
+Exton,Nail Salons,5,0.0316,3
+Conshohocken,Automotive,8,0.0316,5
+Glen Mills,Steakhouses,5,0.0316,3
+St. Petersburg,Sports Bars,6,0.0315,6
+Temple Terrace,Beauty & Spas,6,0.0314,6
+Gulfport,Seafood,6,0.0314,5
+Exton,Chinese,6,0.0313,8
+Philadelphia,Dance Schools,5,0.0313,3
+Essington,Restaurants,9,0.0313,12
+Glen Mills,Nightlife,12,0.0312,19
+Glen Mills,Bars,12,0.0312,19
+Plant City,Seafood,5,0.0312,4
+Philadelphia,Real Estate Agents,6,0.0312,3
+North Wales,Italian,6,0.0311,4
+Saint Petersburg,Sandwiches,25,0.0309,22
+Philadelphia,Movers,11,0.0309,9
+Exton,Italian,6,0.0309,5
+Philadelphia,Hot Pot,9,0.0309,9
+West Chester,Thai,7,0.0308,8
+Saint Petersburg,Cocktail Bars,16,0.0307,15
+New Hope,Specialty Food,5,0.0307,3
+Clearwater,Soup,6,0.0306,4
+New Hope,Nightlife,22,0.0306,42
+Largo,Eyelash Service,5,0.0306,4
+King of Prussia,Jewelry,5,0.0306,3
+Philadelphia,Steakhouses,43,0.0306,76
+New Hope,Bars,20,0.0305,40
+Conshohocken,Auto Repair,6,0.0305,4
+Brandon,Indian,6,0.0304,10
+St. Pete Beach,Nightlife,21,0.0304,27
+Warrington,Bars,6,0.0304,12
+Clearwater,Sushi Bars,15,0.0304,13
+Warrington,Nightlife,6,0.0304,12
+St. Pete Beach,Bars,21,0.0304,27
+Tampa,Buffets,13,0.0303,13
+Bensalem,Event Planning & Services,9,0.0302,8
+Indian Rocks Beach,Restaurants,29,0.03,153
+Oldsmar,Italian,5,0.03,3
+Tampa,Hotels & Travel,199,0.03,223
+Philadelphia,Costumes,5,0.03,3
+Indian Rocks Beach,Food,13,0.03,26
+Clearwater,Beaches,6,0.0298,6
+Ambler,Breakfast & Brunch,5,0.0297,6
+Philadelphia,Hookah Bars,35,0.0296,46
+Clearwater,Self Storage,8,0.0295,9
+Philadelphia,Eyelash Service,43,0.0294,36
+King Of Prussia,Seafood,5,0.0293,3
+King of Prussia,Steakhouses,8,0.0293,6
+Willow Grove,Nail Salons,5,0.0292,3
+Havertown,Nail Salons,6,0.0291,6
+Wesley Chapel,Auto Repair,6,0.029,5
+Clearwater,Thai,8,0.0289,6
+Philadelphia,Hair Stylists,28,0.0289,24
+Philadelphia,Massage,93,0.0289,89
+Clearwater,Chinese,5,0.0289,5
+Philadelphia,Electronics Repair,7,0.0288,6
+Clearwater Beach,Hotels & Travel,7,0.0287,6
+Clearwater Beach,Hotels,7,0.0287,6
+Clearwater,Hair Removal,5,0.0287,4
+Saint Petersburg,Waxing,8,0.0287,4
+Villanova,Restaurants,7,0.0286,9
+Philadelphia,Hair Removal,135,0.0285,163
+St. Pete Beach,Food,10,0.0285,11
+Tampa,Waxing,58,0.0285,58
+Glen Mills,Event Planning & Services,6,0.0285,5
+Tarpon Springs,Greek,10,0.0285,14
+Broomall,Beauty & Spas,6,0.0284,3
+Philadelphia,Bikes,12,0.0283,13
+Philadelphia,Bike Repair/Maintenance,12,0.0283,13
+New Hope,Restaurants,83,0.0282,331
+Philadelphia,Veterinarians,28,0.0281,27
+Treasure Island,Nightlife,13,0.028,34
+Treasure Island,Bars,13,0.028,34
+Philadelphia,Waxing,83,0.028,92
+Philadelphia,Escape Games,11,0.0279,17
+Tampa,Hotels,99,0.0279,122
+Clearwater,Movers,5,0.0277,7
+New Hope,American (New),22,0.0277,52
+Treasure Island,American (Traditional),7,0.0276,13
+Clearwater,Hotels,25,0.0276,20
+Madeira Beach,Food,10,0.0274,13
+Tampa,Eyebrow Services,13,0.0273,9
+Clearwater,Desserts,16,0.0273,11
+Redington Shores,Restaurants,10,0.0273,23
+Philadelphia,Airport Shuttles,8,0.0272,6
+Riverview,Hair Removal,10,0.0272,11
+Riverview,Waxing,10,0.0272,11
+Tampa,Tours,8,0.0272,5
+King of Prussia,Home Services,7,0.0271,4
+Tampa,Car Rental,16,0.027,14
+New Hope,Hotels & Travel,7,0.0267,5
+Philadelphia,Tacos,8,0.0267,4
+Philadelphia,Hair Extensions,16,0.0262,11
+St. Petersburg,Nail Salons,11,0.0262,10
+Clearwater,Seafood,32,0.0261,39
+Kennett Square,Italian,5,0.0261,5
+Saint Petersburg,Seafood,7,0.026,4
+Indian Shores,Restaurants,7,0.026,11
+St. Pete Beach,Event Planning & Services,15,0.026,19
+St. Pete Beach,Hotels,15,0.026,19
+St. Pete Beach,Hotels & Travel,15,0.026,19
+Philadelphia,Pet Training,7,0.0258,7
+Largo,Fitness & Instruction,5,0.0257,4
+Clearwater Beach,Event Planning & Services,9,0.0257,8
+Clearwater,Mediterranean,6,0.0257,3
+St. Pete Beach,Restaurants,55,0.0256,126
+Clearwater Beach,Sandwiches,7,0.0255,12
+Treasure Island,Hotels & Travel,5,0.0253,3
+Philadelphia,Shoe Repair,6,0.0251,6
+Philadelphia,Orthodontists,8,0.0251,4
+Brandon,Waxing,5,0.025,4
+Philadelphia,Physical Therapy,5,0.025,4
+Jenkintown,Nail Salons,6,0.025,7
+Madeira Beach,Bars,22,0.0247,36
+Madeira Beach,Nightlife,22,0.0247,36
+King of Prussia,Nail Salons,7,0.0242,7
+Philadelphia,Water Heater Installation/Repair,10,0.0242,8
+New Hope,American (Traditional),8,0.0241,9
+Treasure Island,Restaurants,23,0.0241,79
+St. Petersburg,Auto Repair,6,0.0239,3
+Madeira Beach,Active Life,5,0.0238,5
+Philadelphia,Pressure Washers,6,0.0238,3
+Philadelphia,Men's Hair Salons,18,0.0237,13
+St. Pete Beach,American (Traditional),11,0.0232,21
+Clearwater Beach,Seafood,23,0.0231,64
+Saint Petersburg,Hotels,6,0.0231,3
+Saint Petersburg,Hotels & Travel,6,0.0231,3
+Madeira Beach,Restaurants,52,0.0228,130
+St Pete Beach,Nightlife,9,0.0227,10
+Philadelphia,Piercing,6,0.0227,5
+Clearwater,Boating,5,0.0227,4
+St Pete Beach,Bars,9,0.0227,10
+Saint Pete Beach,Restaurants,9,0.0226,9
+Philadelphia,Wedding Planning,6,0.022,4
+St. Pete Beach,Breakfast & Brunch,5,0.022,8
+Madeira Beach,Sandwiches,10,0.0217,12
+Clearwater Beach,Restaurants,54,0.0215,147
+Clearwater Beach,Food,7,0.0214,5
+Madeira Beach,American (Traditional),11,0.0213,20
+St. Pete Beach,Seafood,16,0.0211,28
+Clearwater Beach,American (Traditional),16,0.0211,27
+St. Petersburg,Day Spas,9,0.0211,7
+Madeira Beach,Seafood,9,0.0211,22
+Tampa,Taxis,5,0.021,3
+Tampa,Airport Shuttles,7,0.0207,4
+Madeira Beach,Breakfast & Brunch,5,0.0204,7
+St Pete Beach,Restaurants,20,0.0203,28
+Philadelphia,Taxis,13,0.0197,13
+St Pete Beach,Seafood,7,0.0196,5
+Langhorne,Event Planning & Services,9,0.0196,10
+Clearwater Beach,Bars,15,0.0196,21
+Clearwater Beach,Nightlife,16,0.0193,22
+New Hope,Event Planning & Services,8,0.0189,8
+St. Petersburg,Hair Removal,8,0.0189,6
+St. Petersburg,Waxing,7,0.0186,4
+St Pete Beach,Italian,5,0.0184,6
+St Pete Beach,Pizza,5,0.0184,6
+Clearwater Beach,American (New),14,0.0181,20
+Doylestown,Car Dealers,5,0.0168,3
+New Hope,Hotels,5,0.0168,3
+Wesley Chapel,Car Dealers,6,0.0166,4
+St. Petersburg,Massage,5,0.0164,3
+Clearwater Beach,Resorts,5,0.016,4
+Philadelphia,Hotels,52,0.0157,69

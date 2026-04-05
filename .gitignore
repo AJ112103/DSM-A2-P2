@@ -1,0 +1,19 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Intermediate data (large CSVs)
+data/user_pagerank.csv
+data/user_betweenness.csv
+data/business_jaccard.csv
+
+# OS files
+.DS_Store
+
+# Claude config
+.claude/

@@ -1,0 +1,7 @@
+category,total_reviews,n_months,upward_consistency,trend,downward_consistency
+Izakaya,2216,79,0.5641,upward,
+Fences & Gates,1159,123,0.5574,upward,
+Dive Bars,13091,195,0.5567,upward,
+Zoos,2466,177,,downward,0.5682
+Waxing,38563,183,,downward,0.5549
+Pop-Up Restaurants,647,66,,downward,0.5538
